@@ -59,7 +59,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Footer />
         <CookieBanner />
       </body>
-      <GoogleTagManager gtmId="GTM-MC3MSZK4" />
+      <GoogleTagManager gtmId="GTM-KS8WH5PK" />
     </html>
   )
 }
