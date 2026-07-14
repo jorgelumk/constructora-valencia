@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .container-xl {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .section-pad {
+    @apply py-20 md:py-32;
+  }
+  .eyebrow {
+    @apply text-brand-accent font-bold text-sm uppercase tracking-[0.2em];
+  }
+  .btn-orange {
+    @apply inline-flex items-center justify-center gap-2 bg-brand-accent hover:bg-yellow-600 text-white font-semibold px-8 py-4 rounded-sm shadow-md hover:shadow-lg transition-all duration-300 uppercase tracking-wider text-sm;
+  }
+  .btn-white {
+    @apply inline-flex items-center justify-center gap-2 bg-white hover:bg-slate-50 text-brand-dark font-semibold px-8 py-4 rounded-sm shadow-md hover:shadow-lg transition-all duration-300 uppercase tracking-wider text-sm;
+  }
+  .btn-outline-white {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-white text-white hover:bg-white hover:text-brand-dark font-semibold px-8 py-4 rounded-sm transition-all duration-300 uppercase tracking-wider text-sm;
+  }
+  .btn-outline-dark {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-brand-dark text-brand-dark hover:bg-brand-dark hover:text-white font-semibold px-8 py-4 rounded-sm transition-all duration-300 uppercase tracking-wider text-sm;
+  }
+}
