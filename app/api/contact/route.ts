@@ -39,7 +39,7 @@ export async function POST(request: Request) {
     await transporter.sendMail(mailOptions)
 
     return NextResponse.json({ success: true, message: 'Correo enviado correctamente' })
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error('Error al enviar correo:', error)
     return NextResponse.json(
       { error: 'Error enviando el mensaje. Por favor, llámanos directamente.' },

@@ -27,7 +27,7 @@ export default function HeroForm() {
 
       if (!res.ok) throw new Error('Error al enviar')
       setStatus('success')
-    } catch (err) {
+    } catch {
       setStatus('error')
     }
   }
