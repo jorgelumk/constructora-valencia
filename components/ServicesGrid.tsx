@@ -1,30 +1,64 @@
+'use client'
+
 import Link from 'next/link'
 import Image from 'next/image'
+import { useRef } from 'react'
 import { SERVICES } from '@/lib/constants'
 
 export default function ServicesGrid() {
+  const scrollRef = useRef<HTMLDivElement>(null)
+
+  const scroll = (direction: 'left' | 'right') => {
+    if (scrollRef.current) {
+      const { clientWidth } = scrollRef.current
+      const scrollAmount = direction === 'left' ? -clientWidth : clientWidth
+      scrollRef.current.scrollBy({ left: scrollAmount, behavior: 'smooth' })
+    }
+  }
+
   return (
     <section className="section-pad bg-white">
       <div className="container-xl">
-        <div className="text-center max-w-3xl mx-auto mb-16">
+        <div className="text-center max-w-3xl mx-auto mb-16 relative">
           <p className="eyebrow mb-4">Nuestros servicios</p>
           <h2 className="text-4xl md:text-5xl font-bold text-brand-dark mb-6">
-            Todo lo que necesitas para construir o renovar en Valencia
+            Todo lo que necesitas para construir o renovar
           </h2>
           <p className="text-slate-500 text-lg md:text-xl font-light">
-            Una sola empresa para todos los proyectos de construcción, reforma y rehabilitación en Valencia y área metropolitana.
+            Una sola empresa para todos los proyectos de construcción, reforma y rehabilitación.
           </p>
+          
+          {/* Controles de scroll móvil */}
+          <div className="flex justify-center gap-4 mt-8 lg:hidden">
+            <button 
+              onClick={() => scroll('left')}
+              className="w-12 h-12 rounded-full border border-slate-200 flex items-center justify-center text-brand-dark hover:bg-brand-accent hover:text-white hover:border-brand-accent transition-colors"
+              aria-label="Desplazar a la izquierda"
+            >
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <button 
+              onClick={() => scroll('right')}
+              className="w-12 h-12 rounded-full border border-slate-200 flex items-center justify-center text-brand-dark hover:bg-brand-accent hover:text-white hover:border-brand-accent transition-colors"
+              aria-label="Desplazar a la derecha"
+            >
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
+          </div>
         </div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-8 gap-6">
+        {/* Contenedor de servicios */}
+        <div 
+          ref={scrollRef}
+          className="flex lg:grid lg:grid-cols-4 gap-6 overflow-x-auto lg:overflow-x-visible snap-x snap-mandatory hide-scrollbar pb-8 lg:pb-0"
+          style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+        >
           {SERVICES.map((service, i) => (
             <article 
               key={service.slug} 
-              className={`group rounded-xl overflow-hidden bg-white hover:shadow-premium transition-all duration-500 border border-slate-100 flex flex-col xl:col-span-2 ${
-                i === 4 ? 'xl:col-start-2' : ''
-              }`}
+              className="min-w-[85vw] sm:min-w-[45vw] lg:min-w-0 snap-center group rounded-xl overflow-hidden bg-white hover:shadow-premium transition-all duration-500 border border-slate-100 flex flex-col"
             >
-              <Link href={`/servicios/${service.slug}/`} className="relative h-56 overflow-hidden block">
+              <Link href={`/servicios/${service.slug}/`} className="relative h-56 overflow-hidden block shrink-0">
                 <Image
                   src={service.image}
                   alt={service.titleLong}

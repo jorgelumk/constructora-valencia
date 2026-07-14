@@ -386,7 +386,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: '2026-07-15',
     readTime: '8 min',
     category: 'Reformas',
-    image: 'https://images.unsplash.com/photo-1541888086425-d81bb19240f5?w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80',
     content: `
       <h1>Ranking de las mejores empresas constructoras en Valencia</h1>
       <p>A la hora de afrontar un proyecto de edificación o una reforma de gran envergadura, contar con el aliado adecuado es vital. Analizar el <strong>listado de empresas constructoras en Valencia</strong> puede resultar abrumador dada la amplia oferta disponible en la provincia. Por ello, hemos elaborado un <strong>ranking de empresas constructoras en Valencia</strong> basándonos en criterios de calidad, innovación, opiniones de clientes y solvencia técnica en la ejecución de proyectos durante este último año.</p>

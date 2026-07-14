@@ -86,7 +86,7 @@ export default function HomePage() {
 
       {/* Final CTA */}
       <section className="section-pad bg-brand-dark relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1541888086425-d81bb19240f5?w=1800&q=80')] bg-cover bg-center" />
+        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1800&q=80')] bg-cover bg-center" />
         <div className="container-xl text-center max-w-3xl mx-auto relative z-10">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
             ¿Tienes un proyecto en Valencia?

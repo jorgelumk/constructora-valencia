@@ -327,7 +327,7 @@ export const SERVICES: Service[] = [
     category: 'Empresas e Industria',
     metaTitle: 'Empresa Constructora de Obra Civil en Valencia',
     metaDesc: 'Realizamos proyectos de obra civil en Valencia: urbanizaciones, viales, redes de saneamiento y cimentaciones pesadas. Maquinaria propia.',
-    image: 'https://images.unsplash.com/photo-1541888086425-d81bb19240f5?w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80',
     features: [
       'Movimientos de tierras y excavaciones',
       'Redes de saneamiento y canalizaciones',
