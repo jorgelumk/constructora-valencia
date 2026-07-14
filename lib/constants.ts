@@ -4,7 +4,7 @@ export const SITE = {
   phone: '960 73 12 06',
   phoneHref: 'tel:+34960731206',
   whatsappHref: 'https://wa.me/34960731206',
-  email: 'info@constructoraenvalencia.com',
+  email: 'info@constructoravalencia.com',
   address: {
     street: 'Carrer de Sant Vicent Màrtir, 85',
     city: 'Valencia',
