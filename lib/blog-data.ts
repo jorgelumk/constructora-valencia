@@ -55,14 +55,54 @@ export const BLOG_POSTS: BlogPost[] = [
   },
   {
     slug: 'cuanto-cuesta-reformar-piso-valencia',
-    title: '¿Cuánto cuesta reformar un piso en Valencia? Guía de precios 2025',
+    title: '¿Cuánto cuesta reformar un piso en Valencia? Guía de precios 2026',
     description:
-      'Descubre el coste real de reformar tu piso en Valencia en 2025. Desglose detallado por partidas, calidades y consejos para optimizar tu presupuesto sin sorpresas.',
-    date: '2025-03-15',
+      'Descubre el coste real de reformar tu piso en Valencia en 2026. Desglose actualizado por partidas, calidades y consejos para optimizar tu presupuesto sin sorpresas.',
+    date: '2026-07-26',
     readTime: '7 min',
     category: 'Reformas',
     image: 'https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?w=1200&q=80',
     content: `
+      <p>Si has comprado una vivienda para actualizar o quieres darle un nuevo aire a tu casa de siempre, seguro que te preguntas: <strong>¿cuánto cuesta reformar un piso en Valencia en 2026?</strong> En este artículo desglosamos los precios reales basados en las obras que estamos ejecutando este año en la capital del Turia y su área metropolitana.</p>
+
+      <h2>Factores que alteran el presupuesto en Valencia</h2>
+      <p>El coste final nunca es cerrado hasta que se visita el inmueble, ya que depende de variables como:</p>
+      <ul>
+        <li><strong>Antigüedad de la finca:</strong> En barrios como El Carmen o Ruzafa, los pisos antiguos suelen requerir refuerzos estructurales o nivelación de suelos.</li>
+        <li><strong>Calidad de los materiales:</strong> Desde pavimentos vinílicos hasta porcélánicos de gran formato o suelos de Nolla recuperados.</li>
+        <li><strong>Instalaciones:</strong> Cambiar por completo la red de tuberías de plomo y la electricidad obsoleta es obligatorio en fincas con más de 30 años.</li>
+        <li><strong>Subida de costes 2026:</strong> Los precios de mano de obra y materiales han subido entre un 6–10% respecto a 2024 por la presión del mercado de la construcción en la Comunitat Valenciana.</li>
+      </ul>
+
+      <h2>Precios medios de reforma integral en Valencia (2026)</h2>
+      <p>Para que tengas una referencia fiable, estos son los rangos de precio por metro cuadrado actualizados a 2026:</p>
+      <ul>
+        <li><strong>Reforma básica o lavado de cara:</strong> 350–550 €/m²</li>
+        <li><strong>Reforma integral calidad media:</strong> 700–950 €/m²</li>
+        <li><strong>Reforma premium o de alto standing:</strong> A partir de 1.100 €/m²</li>
+      </ul>
+      <p>Por ejemplo, reformar integralmente un piso estándar de 90 m² en zonas como Campanar o Benimaclet, con calidades medias, suele rondar los <strong>63.000 – 85.000 €</strong> en 2026.</p>
+
+      <h2>Partidas más caras en una reforma valenciana</h2>
+      <p>Según los proyectos ejecutados este año, las tres partidas que más encarecen un presupuesto son:</p>
+      <ul>
+        <li><strong>Instalación eléctrica completa:</strong> 4.000–8.000 € según superficie.</li>
+        <li><strong>Fontanería y saneamiento:</strong> 3.000–6.000 € si se sustituye toda la red.</li>
+        <li><strong>Carpintería exterior:</strong> 800–1.500 € por ventana con rotura de puente térmico, imprescindible dado el clima valenciano.</li>
+      </ul>
+
+      <h2>¿Qué incluye nuestro presupuesto integral?</h2>
+      <p>En Constructora en Valencia evitamos los presupuestos trampa. Nuestros proyectos incluyen:</p>
+      <ul>
+        <li>Protección de zonas comunes y gestión de permisos municipales.</li>
+        <li>Demolición y desescombro certificado.</li>
+        <li>Renovación completa de fontanería, electricidad y telecomunicaciones.</li>
+        <li>Carpintería exterior con rotura de puente térmico para aislar del calor y la humedad valenciana.</li>
+        <li>Cocina completa, baños equipados y acabados de primera.</li>
+      </ul>
+      <p>Si deseas un presupuesto exacto y cerrado para tu piso en Valencia, contacta con nosotros y realizaremos una visita técnica gratuita en menos de 48 horas.</p>
+    `,
+  },
       <p>Si has comprado una vivienda para actualizar o quieres darle un nuevo aire a tu casa de siempre, seguro que te preguntas: <strong>¿cuánto cuesta reformar un piso en Valencia actualmente?</strong> En este artículo desglosamos los precios reales basados en las obras que estamos ejecutando en la capital del Turia.</p>
 
       <h2>Factores que alteran el presupuesto en Valencia</h2>
@@ -96,14 +136,37 @@ export const BLOG_POSTS: BlogPost[] = [
   },
   {
     slug: 'ayudas-rehabilitacion-fachadas-valencia',
-    title: 'Ayudas y subvenciones para rehabilitar fachadas en Valencia 2025',
+    title: 'Ayudas y subvenciones para rehabilitar fachadas en Valencia 2026',
     description:
-      'Todo lo que tu comunidad de vecinos necesita saber sobre las ayudas Next Generation y de la Generalitat Valenciana para arreglar la fachada y poner ascensor.',
-    date: '2025-02-28',
+      'Guía actualizada 2026 sobre las ayudas Next Generation y de la Generalitat Valenciana para rehabilitar fachadas. Requisitos, porcentajes y cómo tramitarlas.',
+    date: '2026-07-26',
     readTime: '6 min',
     category: 'Rehabilitación',
     image: 'https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=80',
     content: `
+      <p>En 2026, las ayudas pública a la rehabilitación de edificios en Valencia siguen siendo una oportunidad real, aunque el calendario de convocatorias ha cambiado respecto a años anteriores. Te contamos el estado actual de las <strong>subvenciones para fachadas en Valencia</strong> y cómo acceder a ellas antes de que cierren los plazos.</p>
+
+      <h2>Estado actual de los Fondos Next Generation en 2026</h2>
+      <p>Los fondos europeos del Plan de Recuperación gestionados por la Conselleria d'Habitatge han agotado en gran parte las partidas del Programa 3 (Rehabilitación de edificios residenciales). Sin embargo, en 2026 se han abierto <strong>nuevas convocatorias complementarias</strong> con carácter autonómico que cubren:</p>
+      <ul>
+        <li>Hasta el <strong>40%</strong> del coste si el ahorro energético es moderado.</li>
+        <li>Hasta el <strong>65%</strong> en rehabilitaciones profundas con certificado energético mejorado a letra B o superior.</li>
+        <li>Hasta el <strong>80%</strong> en edificios con más del 70% de vecinos en situación de vulnerabilidad económica.</li>
+      </ul>
+
+      <h2>El IEEV.CV: Requisito indispensable en 2026</h2>
+      <p>Para solicitar cualquier ayuda, el edificio debe contar con el Informe de Evaluación del Edificio de la Comunitat Valenciana (IEEV.CV) en vigor y registrado. Es obligatorio para inmuebles de más de 50 años. Si vuestra finca aún no lo tiene, nuestro equipo técnico se encarga de redactarlo y registrarlo.</p>
+
+      <h2>Ayudas municipales del Ayuntamiento de Valencia</h2>
+      <p>El Ajuntament de València mantiene en 2026 su línea de subvenciones para la mejora de fachadas y cubiertas en el casco histórico y barrios vulnerables. La cuantía puede llegar al <strong>50% del coste de ejecución</strong> en zonas como Patraix, Natzaret o Benimaclet. Los plazos de solicitud suelen abrirse en el primer trimestre de cada año.</p>
+
+      <h2>Mejora de accesibilidad: Instalación de ascensores</h2>
+      <p>La instalación de ascensores a cota cero y la eliminación de escalones en los zaguánes cuentan con líneas de ayuda específicas que cubren habitualmente hasta el 50% del coste. En 2026, la Generalitat ha dado prioridad a edificios con vecinos mayores de 65 años.</p>
+
+      <h2>¿Cómo tramitamos todo esto?</h2>
+      <p>La burocracia suele asustar a las comunidades de vecinos. Por eso, en Constructora en Valencia contamos con un departamento que gestiona el proyecto, la obra y la <strong>tramitación íntegra de las subvenciones</strong>, para que vosotros solo tengáis que preocuparos de disfrutar de un edificio renovado, seguro y eficiente. Consultádnoslo sin compromiso.</p>
+    `,
+  },
       <p>Muchos edificios de Valencia sufren problemas de desprendimientos, humedades o falta de aislamiento térmico. Afortunadamente, este 2025 sigue siendo un año excelente para aprovechar las <strong>ayudas públicas a la rehabilitación</strong>. Te contamos cuáles están disponibles y cómo conseguirlas.</p>
 
       <h2>Fondos Next Generation en la Comunitat Valenciana</h2>
@@ -501,7 +564,175 @@ export const BLOG_POSTS: BlogPost[] = [
 
       <p>Si estás decidido a dar el paso hacia la casa de tus sueños, nosotros te acompañamos en todo el trayecto. <a href="/contacto/">Contacta hoy con nuestra constructora</a> y descubre lo fácil que puede ser edificar en Valencia cuando estás bien asesorado.</p>
     `,
-  }
+  },
+  {
+    slug: 'cuanto-cuesta-casa-passivhaus-valencia',
+    title: '¿Cuánto cuesta una casa Passivhaus en Valencia? Precios reales 2026',
+    description: 'Descubre el coste real de construir una casa Passivhaus en Valencia en 2026. Diferencia de precio respecto a la construcción convencional, ahorros energéticos y plazos.',
+    date: '2026-07-26',
+    readTime: '8 min',
+    category: 'Obra Nueva',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80',
+    content: `
+      <p>El concepto Passivhaus lleva años sonando en el sector de la construcción, pero sigue siendo un gran desconocido para la mayoría de quienes quieren construirse una vivienda en Valencia. La pregunta más frecuente es siempre la misma: <strong>¿cuánto cuesta una casa Passivhaus en Valencia?</strong> La respuesta honesta es que más que una convencional al principio, pero bastante menos a lo largo de su vida útil.</p>
+
+      <h2>¿Qué es exactamente una casa Passivhaus?</h2>
+      <p>Passivhaus (Casa Pasiva) es un estándar de construcción alemán que garantiza un consumo de energía para calefacción y refrigeración inferior a 15 kWh/m²/año. En la práctica, esto significa que una vivienda de 150 m² en Valencia gasta en climatización lo que otros años pagarías en una semana de verano con el aire acondicionado a tope.</p>
+      <p>Para conseguirlo, la construcción Passivhaus combina cuatro elementos clave:</p>
+      <ul>
+        <li><strong>Aislamiento extremo:</strong> En techo, suelo y muros, entre 15 y 25 cm según la zona climática.</li>
+        <li><strong>Ventanas de triple acristalamiento</strong> con marco de alto rendimiento térmico.</li>
+        <li><strong>Eliminación total de puentes térmicos</strong> en todos los encuentros constructivos.</li>
+        <li><strong>Ventilación mecánica con recuperación de calor (VMC)</strong> que renueva el aire interior sin perder energía.</li>
+      </ul>
+
+      <h2>Precio de una casa Passivhaus en Valencia (2026)</h2>
+      <p>En Valencia y su área metropolitana, el sobrecoste respecto a una construcción convencional de calidad media se sitúa entre el <strong>10% y el 20%</strong>, dependiendo del diseño y la superficie. En cifras concretas para 2026:</p>
+      <ul>
+        <li><strong>Construcción convencional calidad media en Valencia:</strong> 1.200–1.500 €/m²</li>
+        <li><strong>Construcción Passivhaus en Valencia:</strong> 1.400–1.800 €/m²</li>
+        <li>Para un chalet de 150 m², el sobrecoste puede rondar los <strong>30.000–50.000 €</strong> respecto a una construcción normal.</li>
+      </ul>
+      <p>Este sobrecoste inicial se recupera en gran medida gracias al ahorro en facturas energéticas. Una vivienda Passivhaus de 150 m² en Valencia puede ahorrar entre 1.200 y 2.000 € anuales en climatización respecto a una vivienda convencional de la misma superficie.</p>
+
+      <h2>¿Tiene sentido el Passivhaus en el clima mediterráneo de Valencia?</h2>
+      <p>Esta es la pregunta del millón. El estándar Passivhaus nació en Alemania para climas fríos, pero está perfectamente adaptado al clima mediterráneo de Valencia. De hecho, en verano un Passivhaus bien diseñado mantiene temperaturas interiores de 24-26°C sin necesidad de aire acondicionado, gracias a la inercia térmica del aislamiento y una correcta orientación de los huecos.</p>
+      <p>El resultado es especialmente apreciado en municipios como L'Eliana, Rocafort o Bétera, donde los veranos son calurosos pero las noches refrescan. La combinación de aislamiento y ventilación nocturna puede eliminar casi por completo la necesidad de climatización artificial.</p>
+
+      <h2>¿Qué certificación necesita una casa Passivhaus?</h2>
+      <p>Para que una vivienda se considere oficialmente Passivhaus debe ser verificada por un certificador acreditado por el Passivhaus Institut (PHI) de Alemania. En España existen varios certificadores activos. El proceso implica modelizar la vivienda con el software PHPP antes de construirla y verificar los resultados reales con una prueba de Blower Door (ensayo de hermeticidad) tras la obra.</p>
+      <p>Si estás interesado en construir tu vivienda Passivhaus en Valencia o el área metropolitana, nuestro equipo técnico puede orientarte desde la fase de proyecto. <a href="/contacto/">Contacta con nosotros</a> y valoramos tu caso sin compromiso.</p>
+    `,
+  },
+  {
+    slug: 'constructora-lujo-valencia',
+    title: 'Constructora de lujo en Valencia: ¿Cuánto cuesta una villa en La Eliana?',
+    description: 'Descubre cuánto cuesta construir una villa de lujo en Valencia en 2026. Precios reales, materiales premium y qué diferencia una constructora de lujo de una convencional.',
+    date: '2026-07-26',
+    readTime: '7 min',
+    category: 'Obra Nueva',
+    image: 'https://images.unsplash.com/photo-1613977257363-707ba9348227?w=1200&q=80',
+    content: `
+      <p>El mercado de la <strong>construcción de lujo en Valencia</strong> ha experimentado un crecimiento sostenido desde 2022, impulsado por la demanda de compradores nacionales e internacionales que buscan viviendas de alto standing en municipios premium como L'Eliana, Rocafort, Bétera o Massalfassar. Si estás pensando en construir tu villa en esta zona, en este artículo desglosamos los precios reales y lo que debes exigir a una constructora de lujo.</p>
+
+      <h2>¿Qué se considera construcción de lujo en Valencia?</h2>
+      <p>En el mercado valenciano, hablamos de construcción de lujo cuando la inversión total en obra supera los <strong>350.000–400.000 €</strong> y el proyecto incorpora elementos que van más allá de la habitabilidad estándar:</p>
+      <ul>
+        <li>Materiales premium: piedra natural, madera noble, porcelánico de gran formato, acero corten.</li>
+        <li>Diseño de autor con arquitecto de reconocido prestigio.</li>
+        <li>Domótica integrada: control de iluminación, climatización, seguridad y persianas desde el móvil.</li>
+        <li>Piscina de obra con desbordante, spa o cascada integrada.</li>
+        <li>Garaje para 3 o más vehículos, bodega o sala de cine.</li>
+        <li>Acabados a medida: carpintería lacada de fábrica, baños con sanitarios de diseño europeo.</li>
+      </ul>
+
+      <h2>Precio por m² de construcción de lujo en Valencia (2026)</h2>
+      <p>Los rangos de precio por metro cuadrado construido para viviendas de lujo en Valencia y municipios premium son los siguientes en 2026:</p>
+      <ul>
+        <li><strong>Lujo medio:</strong> 1.800–2.400 €/m²</li>
+        <li><strong>Lujo alto:</strong> 2.400–3.500 €/m²</li>
+        <li><strong>Ultra-lujo o proyectos singulares:</strong> más de 3.500 €/m²</li>
+      </ul>
+      <p>Una villa de 250 m² construidos en L'Eliana o Rocafort puede tener un coste total de obra de entre <strong>500.000 y 800.000 €</strong>, sin contar el precio del suelo ni los honorarios del arquitecto (que suelen suponer entre el 7% y el 12% del presupuesto de obra).</p>
+
+      <h2>¿Por qué L'Eliana y Rocafort concentran la demanda de lujo?</h2>
+      <p>Ambos municipios reúnen las condiciones ideales para la vivienda exclusiva: microclima privilegiado, baja densidad edificatoria, urbanizaciones consolidadas con parcelas amplias y una excelente conexión con Valencia capital por la A-7 y el metro. Además, los colegios internacionales de la zona y la presencia de profesionales de alto nivel generan una demanda sostenida de vivienda de calidad.</p>
+
+      <h2>Qué debe ofrecer una constructora de lujo en Valencia</h2>
+      <p>Si vas a invertir más de 400.000 € en tu vivienda, lo que debes exigir a tu constructora es muy diferente a lo que pedirías para una obra convencional:</p>
+      <ul>
+        <li>Jefe de obra exclusivo para tu proyecto, sin repartir entre varias obras.</li>
+        <li>Control de calidad en cada partida: certificados de materiales, ensayos de resistencia.</li>
+        <li>Renders 3D hiperrealistas y recorridos virtuales antes de iniciar la obra.</li>
+        <li>Contratos con penalizaciones reales por incumplimiento de plazo.</li>
+        <li>Seguro decenal y póliza de RC de primer nivel.</li>
+        <li>Servicio postventa garantizado durante al menos 2 años.</li>
+      </ul>
+      <p>En <a href="/servicios/construccion-lujo-alta-calidad-valencia/">Constructora en Valencia</a> ejecutamos proyectos de alto standing en toda el área metropolitana. Si tienes una parcela o un proyecto entre manos, cuéntanoslo y te damos nuestra valoración sin compromiso.</p>
+    `,
+  },
+  {
+    slug: 'precio-m2-construccion-valencia-2026',
+    title: 'Precio m² construcción Valencia 2026: Guía actualizada',
+    description: 'Guía de precios actualizados a 2026 para construir en Valencia. Coste por m² de obra nueva, reformas y rehabilitación por tipo de proyecto y calidad de acabados.',
+    date: '2026-07-26',
+    readTime: '6 min',
+    category: 'Obra Nueva',
+    image: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&q=80',
+    content: `
+      <p>Una de las preguntas más habituales que recibimos en Constructora en Valencia es: <strong>¿cuánto cuesta el m² de construcción en Valencia en 2026?</strong> La respuesta no es única, porque depende del tipo de proyecto, la calidad de los materiales y la zona donde se ejecute la obra. Pero en este artículo damos rangos de precio reales basados en los proyectos que estamos ejecutando este año.</p>
+
+      <h2>Precio m² de obra nueva en Valencia (2026)</h2>
+      <p>Para la construcción de viviendas de obra nueva en Valencia y área metropolitana, los rangos actualizados a julio de 2026 son:</p>
+      <ul>
+        <li><strong>Vivienda unifamiliar calidad estándar:</strong> 1.100–1.400 €/m²</li>
+        <li><strong>Vivienda unifamiliar calidad media-alta:</strong> 1.400–1.800 €/m²</li>
+        <li><strong>Vivienda de lujo o premium:</strong> 1.800–3.500 €/m²</li>
+        <li><strong>Casa Passivhaus:</strong> 1.400–1.900 €/m²</li>
+      </ul>
+      <p>Estos precios incluyen la estructura, cerramientos, cubierta, instalaciones (electricidad, fontanería, climatización), revestimientos interiores y carpintería. No incluyen el suelo, los honorarios de arquitecto ni las tasas y licencias municipales.</p>
+
+      <h2>Precio m² de reforma integral en Valencia (2026)</h2>
+      <ul>
+        <li><strong>Reforma básica (solo acabados):</strong> 350–550 €/m²</li>
+        <li><strong>Reforma integral calidad media:</strong> 700–950 €/m²</li>
+        <li><strong>Reforma integral premium:</strong> 1.000–1.500 €/m²</li>
+      </ul>
+
+      <h2>Precio m² de rehabilitación de fachadas en Valencia (2026)</h2>
+      <ul>
+        <li><strong>Enfoscado y pintura de fachada:</strong> 35–60 €/m² de fachada</li>
+        <li><strong>Sistema SATE (aislamiento + acabado):</strong> 80–140 €/m² de fachada</li>
+        <li><strong>Rehabilitación integral de fachada con andamio:</strong> 150–250 €/m² de fachada</li>
+      </ul>
+
+      <h2>Precio de construcción de nave industrial en Valencia (2026)</h2>
+      <ul>
+        <li><strong>Nave industrial sencilla (estructura metálica):</strong> 400–600 €/m²</li>
+        <li><strong>Nave con oficinas integradas:</strong> 600–900 €/m²</li>
+        <li><strong>Nave logística o industrial de alta especificación:</strong> 800–1.200 €/m²</li>
+      </ul>
+
+      <h2>¿Por qué han subido los precios en 2026?</h2>
+      <p>Los precios de construcción en Valencia han subido entre un 6% y un 10% respecto a 2024 por varios factores: el encarecimiento de materias primas (acero, cobre, madera), la escasez de mano de obra especializada en la zona y el aumento de la demanda tras las ayudas a rehabilitación. Las obras de reconstrucción post-DANA en la comarca de L'Horta Sud también han tensionado el mercado local de operarios.</p>
+      <p>Para obtener un presupuesto personalizado y actualizado para tu proyecto en Valencia, <a href="/contacto/">contáctanos</a> y realizamos una visita técnica gratuita en menos de 48 horas.</p>
+    `,
+  },
+  {
+    slug: 'como-elegir-constructora-valencia',
+    title: 'Cómo elegir constructora en Valencia: 7 claves para no equivocarte',
+    description: 'Guía práctica para elegir la mejor constructora en Valencia. Qué preguntar, qué documentación pedir y cómo evitar los errores más frecuentes al contratar una empresa de construcción.',
+    date: '2026-07-26',
+    readTime: '6 min',
+    category: 'Trámites y Permisos',
+    image: 'https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&q=80',
+    content: `
+      <p>Elegir <strong>constructora en Valencia</strong> es una de las decisiones más importantes que tomarás si tienes entre manos una obra nueva, una reforma integral o una rehabilitación. Una mala elección puede costarte decenas de miles de euros en sobrecostes, meses de retraso o, en el peor caso, defectos constructivos que tardan años en manifestarse. Aquí te damos las 7 claves reales para no equivocarte.</p>
+
+      <h2>1. Comprueba que tiene seguro de responsabilidad civil en vigor</h2>
+      <p>Es el mínimo legal e imprescindible. Cualquier accidente durante la obra o daño a vecinos debe estar cubierto por la póliza de RC de la constructora. Pide el certificado de seguro antes de firmar nada. Si se niegan a facilitártelo, descártalos.</p>
+
+      <h2>2. Exige el Seguro Decenal para obras nuevas de vivienda</h2>
+      <p>Si estás construyendo una vivienda nueva, el Seguro Decenal de Daños es obligatorio por la Ley de Ordenación de la Edificación (LOE). Cubre los defectos estructurales durante 10 años desde la entrega. Las constructoras que te proponen no contratarlo están actuando fuera de la ley.</p>
+
+      <h2>3. Pide referencias de obras ejecutadas en Valencia</h2>
+      <p>Una constructora seria en Valencia tiene proyectos verificables: dirección de la obra, año de ejecución y, si es posible, contacto del promotor. Visita alguno de los proyectos realizados o solicita fotos del proceso de obra, no solo del resultado final.</p>
+
+      <h2>4. Desconfía de presupuestos muy por debajo del mercado</h2>
+      <p>Si un presupuesto es un 30-40% más barato que los demás, hay algo que no cuadra. Las formas más habituales de compensar ese diferencial son: materiales de menor calidad que los especificados, mano de obra no cualificada, o presupuestos incompletos que generan modificados durante la obra.</p>
+
+      <h2>5. Exige un contrato con precio cerrado y penalizaciones por retraso</h2>
+      <p>El contrato debe recoger el importe total de la obra, un desglose por partidas, el plazo de entrega y las penalizaciones por incumplimiento. Sin penalizaciones por retraso en contrato, la fecha de entrega es simplemente orientativa.</p>
+
+      <h2>6. Un solo interlocutor durante toda la obra</h2>
+      <p>Uno de los problemas más frecuentes en obras mal gestionadas es que el cliente no sabe con quién hablar cuando surge un problema. Exige un jefe de obra asignado con nombre y número de contacto directo. Esa persona debe ser tu interlocutor único durante todo el proyecto.</p>
+
+      <h2>7. Verifica que gestiona las licencias municipales</h2>
+      <p>Toda obra en Valencia requiere licencia municipal. Una constructora profesional gestiona este trámite, conoce los plazos del Ayuntamiento de Valencia y de los municipios del área metropolitana y te evita sorpresas. Si te piden que gestiones tú las licencias, es una señal de poca profesionalidad.</p>
+
+      <p>En <a href="/quienes-somos/">Constructora en Valencia</a> cumplimos estos 7 puntos y podemos acreditarlo. Si tienes un proyecto en Valencia, <a href="/contacto/">contáctanos</a> y te enviamos presupuesto en 24 horas con visita técnica gratuita incluida.</p>
+    `,
+  },
 ]
 
 export const BLOG_CATEGORIES = [
