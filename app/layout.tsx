@@ -21,14 +21,6 @@ export const metadata: Metadata = {
   },
   description:
     'Empresa constructora en Valencia con +15 años de experiencia. Especialistas en obra nueva, reformas integrales, rehabilitación de edificios y naves industriales. Presupuesto gratis en 24h.',
-  keywords: [
-    'constructora valencia',
-    'empresa constructora valencia',
-    'obra nueva valencia',
-    'reformas integrales valencia',
-    'rehabilitacion edificios valencia',
-    'naves industriales valencia',
-  ],
   openGraph: {
     type: 'website',
     locale: 'es_ES',
@@ -50,9 +42,61 @@ export const metadata: Metadata = {
   },
 }
 
+const schemaOrg = {
+  '@context': 'https://schema.org',
+  '@type': 'GeneralContractor',
+  name: 'Constructora en Valencia',
+  url: 'https://constructoravalencia.com',
+  telephone: '+34960731206',
+  email: 'info@constructoravalencia.com',
+  foundingDate: '2008',
+  priceRange: '€€€',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Carrer de Sant Vicent Màrtir, 85',
+    addressLocality: 'Valencia',
+    postalCode: '46002',
+    addressRegion: 'Comunitat Valenciana',
+    addressCountry: 'ES',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 39.4699,
+    longitude: -0.3763,
+  },
+  areaServed: [
+    'Valencia', 'Paterna', 'Torrent', 'Burjassot',
+    "L'Eliana", 'Rocafort', 'Riba-roja de Túria', 'Mislata',
+    'Sagunto', 'Alzira', 'Gandía',
+  ],
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+      opens: '08:00',
+      closes: '19:00',
+    },
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: 'Saturday',
+      opens: '09:00',
+      closes: '14:00',
+    },
+  ],
+  sameAs: [
+    'https://constructoravalencia.com',
+  ],
+}
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" className={jakarta.variable}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrg) }}
+        />
+      </head>
       <body className="font-sans antialiased text-slate-800 bg-white">
         <Navbar />
         <main>{children}</main>

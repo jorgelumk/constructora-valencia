@@ -1,6 +1,6 @@
 export const SITE = {
   name: 'Constructora en Valencia',
-  url: 'https://constructoraenvalencia.com',
+  url: 'https://constructoravalencia.com',
   phone: '960 73 12 06',
   phoneHref: 'tel:+34960731206',
   whatsappHref: 'https://wa.me/34960731206',
@@ -345,9 +345,9 @@ export const SERVICES: Service[] = [
 
 
 export const STATS = [
-  { value: '+400', label: 'Proyectos finalizados' },
+  { value: '+350', label: 'Proyectos finalizados' },
   { value: '+15', label: 'Años en el sector' },
-  { value: '99%', label: 'Satisfacción garantizada' },
+  { value: '98%', label: 'Clientes satisfechos' },
   { value: '10 años', label: 'Seguro decenal' },
 ]
 
@@ -357,28 +357,28 @@ export const TESTIMONIALS = [
     location: 'Ruzafa · Reforma completa',
     avatar: 'LN',
     rating: 5,
-    text: '"Nos renovaron un piso muy antiguo en Ruzafa y lo han dejado irreconocible. Resolvieron los imprevistos muy rápido y el trato fue siempre muy cercano. Recomendables al 100%."',
+    text: 'Nos renovaron un piso muy antiguo en Ruzafa y lo han dejado irreconocible. Resolvieron los imprevistos muy rápido y el trato fue siempre muy cercano. Recomendables al 100%.',
   },
   {
     name: 'David Blasco',
     location: 'Centro Valencia · Local hostelería',
     avatar: 'DB',
     rating: 5,
-    text: '"Necesitábamos abrir nuestro café antes de las fallas y trabajaron contrarreloj para conseguirlo. La insonorización y las calidades son inmejorables."',
+    text: 'Necesitábamos abrir nuestro café antes de las fallas y trabajaron contrarreloj para conseguirlo. La insonorización y las calidades son inmejorables.',
   },
   {
     name: 'Elena Soriano',
-    location: 'L\'Eliana · Chalet obra nueva',
+    location: "L'Eliana · Chalet obra nueva",
     avatar: 'ES',
     rating: 5,
-    text: '"Confiamos en ellos para hacernos nuestra casa a medida. Desde el primer boceto del arquitecto hasta que nos dieron las llaves fue un proceso súper tranquilo."',
+    text: 'Confiamos en ellos para hacernos nuestra casa a medida. Desde el primer boceto del arquitecto hasta que nos dieron las llaves fue un proceso súper tranquilo.',
   },
   {
     name: 'Antonio Grau',
     location: 'Paterna · Rehabilitación comunitaria',
     avatar: 'AG',
     rating: 5,
-    text: '"Rehabilitamos el zaguán para poner el ascensor a cota cero en nuestro edificio. Las molestias para los vecinos fueron mínimas y nos gestionaron la subvención."',
+    text: 'Rehabilitamos el zaguán para poner el ascensor a cota cero en nuestro edificio. Las molestias para los vecinos fueron mínimas y nos gestionaron la subvención.',
   },
 ]
 

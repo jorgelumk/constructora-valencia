@@ -4,7 +4,7 @@ const TRUST_ITEMS = [
   { icon: '⚡', text: 'Presupuesto en 24 horas' },
   { icon: '📋', text: 'Plazos contractuales' },
   { icon: '🏛️', text: 'Licencias incluidas' },
-  { icon: '📍', text: 'Área metropolitana BCN' },
+  { icon: '📍', text: 'Área metropolitana de Valencia' },
   { icon: '⭐', text: '+127 valoraciones 5★' },
 ]
 
