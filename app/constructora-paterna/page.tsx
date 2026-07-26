@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 }
 
 const PROYECTOS_PATERNA = [
-  { title: 'Plataforma Logística 2.400 m²', desc: 'Nave industrial de gran escala en el Polígono L'Oliveral, ejecutada en plazo y con todos los permisos gestionados.', icon: '🏭' },
+  { title: 'Plataforma Logística 2.400 m²', desc: "Nave industrial de gran escala en el Polígono L'Oliveral, ejecutada en plazo y con todos los permisos gestionados.", icon: '🏭' },
   { title: 'Nave Industrial Paterna', desc: 'Construcción de nave industrial con oficinas integradas en el Parque Tecnológico de Paterna.', icon: '🔩' },
   { title: 'Rehabilitación Comunitaria', desc: 'Rehabilitación de zaguán y ascensor a cota cero en comunidad de vecinos de Paterna.', icon: '🏢' },
 ]
@@ -31,7 +31,7 @@ const SERVICIOS_PATERNA = [
 export default function ConstructoraPaterna() {
   return (
     <>
-      <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Constructora en Paterna' }]} />
+      <Breadcrumb items={[{ name: 'Inicio', href: '/' }, { name: 'Constructora en Paterna' }]} />
 
       {/* Hero */}
       <section className="relative bg-brand-dark pt-32 pb-20 overflow-hidden">

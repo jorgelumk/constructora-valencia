@@ -103,37 +103,6 @@ export const BLOG_POSTS: BlogPost[] = [
       <p>Si deseas un presupuesto exacto y cerrado para tu piso en Valencia, contacta con nosotros y realizaremos una visita técnica gratuita en menos de 48 horas.</p>
     `,
   },
-      <p>Si has comprado una vivienda para actualizar o quieres darle un nuevo aire a tu casa de siempre, seguro que te preguntas: <strong>¿cuánto cuesta reformar un piso en Valencia actualmente?</strong> En este artículo desglosamos los precios reales basados en las obras que estamos ejecutando en la capital del Turia.</p>
-
-      <h2>Factores que alteran el presupuesto en Valencia</h2>
-      <p>El coste final nunca es cerrado hasta que se visita el inmueble, ya que depende de variables como:</p>
-      <ul>
-        <li><strong>Antigüedad de la finca:</strong> En barrios como El Carmen o Ruzafa, los pisos antiguos suelen requerir refuerzos estructurales o nivelación de suelos.</li>
-        <li><strong>Calidad de los materiales:</strong> Desde pavimentos vinílicos hasta porcelánicos de gran formato o suelos de Nolla recuperados.</li>
-        <li><strong>Instalaciones:</strong> Cambiar por completo la red de tuberías de plomo y la electricidad obsoleta es obligatorio en fincas con más de 30 años.</li>
-      </ul>
-
-      <h2>Precios medios de reforma integral en Valencia (2025)</h2>
-      <p>Para que tengas una referencia fiable, estos son los rangos de precio por metro cuadrado:</p>
-      <ul>
-        <li><strong>Reforma básica o lavado de cara:</strong> 300–500 €/m²</li>
-        <li><strong>Reforma integral calidad media:</strong> 600–850 €/m²</li>
-        <li><strong>Reforma premium o de alto standing:</strong> A partir de 1.000 €/m²</li>
-      </ul>
-      <p>Por ejemplo, reformar integralmente un piso estándar de 90 m² en zonas como Campanar o Benimaclet, con calidades medias, suele rondar los <strong>55.000 – 75.000 €</strong>.</p>
-
-      <h2>¿Qué incluye nuestro presupuesto integral?</h2>
-      <p>En Constructora en Valencia evitamos los presupuestos trampa. Nuestros proyectos incluyen:</p>
-      <ul>
-        <li>Protección de zonas comunes y gestión de permisos municipales.</li>
-        <li>Demolición y desescombro certificado.</li>
-        <li>Renovación completa de fontanería, electricidad y telecomunicaciones.</li>
-        <li>Carpintería exterior con rotura de puente térmico para aislar del calor y la humedad valenciana.</li>
-        <li>Cocina completa, baños equipados y acabados de primera.</li>
-      </ul>
-      <p>Si deseas un presupuesto exacto y cerrado para tu piso en Valencia, contacta con nosotros y realizaremos una visita técnica gratuita.</p>
-    `,
-  },
   {
     slug: 'ayudas-rehabilitacion-fachadas-valencia',
     title: 'Ayudas y subvenciones para rehabilitar fachadas en Valencia 2026',
@@ -165,25 +134,6 @@ export const BLOG_POSTS: BlogPost[] = [
 
       <h2>¿Cómo tramitamos todo esto?</h2>
       <p>La burocracia suele asustar a las comunidades de vecinos. Por eso, en Constructora en Valencia contamos con un departamento que gestiona el proyecto, la obra y la <strong>tramitación íntegra de las subvenciones</strong>, para que vosotros solo tengáis que preocuparos de disfrutar de un edificio renovado, seguro y eficiente. Consultádnoslo sin compromiso.</p>
-    `,
-  },
-      <p>Muchos edificios de Valencia sufren problemas de desprendimientos, humedades o falta de aislamiento térmico. Afortunadamente, este 2025 sigue siendo un año excelente para aprovechar las <strong>ayudas públicas a la rehabilitación</strong>. Te contamos cuáles están disponibles y cómo conseguirlas.</p>
-
-      <h2>Fondos Next Generation en la Comunitat Valenciana</h2>
-      <p>Los fondos europeos son gestionados por la Conselleria d'Habitatge y ofrecen subvenciones directas a las comunidades de propietarios que mejoren la eficiencia energética del edificio. Si instaláis un sistema SATE (aislamiento por el exterior) en la fachada, podéis recuperar:</p>
-      <ul>
-        <li>Hasta el <strong>40%</strong> del coste si el ahorro energético es moderado.</li>
-        <li>Hasta el <strong>65%</strong> o incluso el <strong>80%</strong> en rehabilitaciones profundas que reduzcan drásticamente el consumo de calefacción y aire acondicionado.</li>
-      </ul>
-
-      <h2>El IEEV.CV: Requisito indispensable</h2>
-      <p>Para solicitar cualquier ayuda, el edificio debe contar con el Informe de Evaluación del Edificio de la Comunitat Valenciana (IEEV.CV) en vigor y registrado. Es obligatorio para inmuebles de más de 50 años. Si vuestra finca aún no lo tiene, nuestro equipo técnico se encarga de redactarlo y registrarlo.</p>
-
-      <h2>Mejora de accesibilidad: Instalación de ascensores</h2>
-      <p>Además de la fachada, la instalación de ascensores a cota cero y la eliminación de escalones en los zaguanes cuentan con líneas de ayuda específicas del Ayuntamiento de Valencia y de la Generalitat, cubriendo habitualmente hasta el 50% del coste de ejecución.</p>
-
-      <h2>¿Cómo tramitamos todo esto?</h2>
-      <p>La burocracia suele asustar a las comunidades de vecinos. Por eso, en Constructora en Valencia contamos con un departamento que gestiona el proyecto, la obra y la <strong>tramitación íntegra de las subvenciones</strong>, para que vosotros solo tengáis que preocuparos de disfrutar de un edificio renovado, seguro y eficiente.</p>
     `,
   },
   {

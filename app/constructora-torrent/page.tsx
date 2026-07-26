@@ -25,7 +25,7 @@ const SERVICIOS_TORRENT = [
 export default function ConstructoraTorrent() {
   return (
     <>
-      <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Constructora en Torrent' }]} />
+      <Breadcrumb items={[{ name: 'Inicio', href: '/' }, { name: 'Constructora en Torrent' }]} />
 
       {/* Hero */}
       <section className="relative bg-brand-dark pt-32 pb-20 overflow-hidden">

@@ -25,7 +25,7 @@ const SERVICIOS_ROCAFORT = [
 export default function ConstructoraRocafort() {
   return (
     <>
-      <Breadcrumb items={[{ label: 'Inicio', href: '/' }, { label: 'Constructora en Rocafort' }]} />
+      <Breadcrumb items={[{ name: 'Inicio', href: '/' }, { name: 'Constructora en Rocafort' }]} />
 
       {/* Hero */}
       <section className="relative bg-brand-dark pt-32 pb-20 overflow-hidden">
