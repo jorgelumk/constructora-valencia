@@ -136,6 +136,26 @@ export default function ProjectPage({ params }: Props) {
                   </span>
                 ))}
               </div>
+
+              {/* Gallery */}
+              {project.gallery && project.gallery.length > 0 && (
+                <div className="mt-12">
+                  <h3 className="text-2xl font-bold text-brand-dark mb-6">Galería del Proyecto</h3>
+                  <div className="grid grid-cols-2 gap-4">
+                    {project.gallery.map((img, i) => (
+                      <div key={i} className={`relative overflow-hidden rounded-xl bg-slate-100 ${i === 0 ? 'col-span-2 aspect-[2/1]' : 'aspect-[4/3]'}`}>
+                        <Image
+                          src={img}
+                          alt={`${project.title} - foto ${i + 1}`}
+                          fill
+                          className="object-cover hover:scale-105 transition-transform duration-500"
+                          sizes="(max-width: 768px) 100vw, 50vw"
+                        />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
 
             {/* Project Data Card */}
