@@ -683,6 +683,184 @@ export const BLOG_POSTS: BlogPost[] = [
       <p>En <a href="/quienes-somos/">Constructora en Valencia</a> cumplimos estos 7 puntos y podemos acreditarlo. Si tienes un proyecto en Valencia, <a href="/contacto/">contáctanos</a> y te enviamos presupuesto en 24 horas con visita técnica gratuita incluida.</p>
     `,
   },
+  {
+    slug: 'precio-piscina-valencia',
+    title: '¿Cuánto cuesta construir una piscina en Valencia? Precios y tipos 2026',
+    description: 'Construir una piscina en Valencia cuesta desde 14.000€ en modelos prefabricados hasta más de 35.000€ en piscinas desbordantes a medida. Tipos, precios y plazos.',
+    date: '2026-08-05',
+    readTime: '7 min',
+    category: 'Obra Nueva',
+    image: '/images/blog-piscina-valencia.jpg',
+    content: `
+      <p>Con más de 300 días de sol al año y una temporada de baño que en Valencia se extiende fácilmente de mayo a octubre, la piscina es una de las inversiones que más valor de uso aporta a una vivienda unifamiliar o a un chalet con jardín. Pero antes de decidirte, conviene entender qué tipos de piscina existen, qué factores mueven el precio y qué presupuesto real hay que manejar en <strong>2026</strong>. En este artículo repasamos las opciones disponibles y los rangos de precio con los que trabajamos en nuestros proyectos de <a href="/servicios/construccion-piscinas-valencia/"><strong>construcción de piscinas en Valencia</strong></a>.</p>
+
+      <h2>Tipos de piscina que se construyen en Valencia</h2>
+
+      <h3>Piscina de obra con hormigón gunitado</h3>
+      <p>Es la opción más habitual y la que ofrecemos por defecto en nuestros proyectos. El vaso se construye proyectando hormigón armado vía húmeda, lo que garantiza la <strong>máxima estanqueidad y durabilidad</strong> frente a los movimientos del terreno. Permite cualquier forma, tamaño y profundidad, y admite todo tipo de acabados: gresite, porcelánico o microcemento.</p>
+
+      <h3>Piscina desbordante</h3>
+      <p>El agua se derrama de forma continua por uno o varios de sus laterales hacia un canal perimetral, lo que crea un efecto visual de continuidad con el paisaje y mantiene el agua siempre limpia en la superficie. Es la solución que más solicitan nuestros clientes de <a href="/servicios/construccion-lujo-alta-calidad-valencia/"><strong>viviendas de alta gama</strong></a>.</p>
+
+      <h3>Piscina prefabricada o de poliéster</h3>
+      <p>Se fabrica en una sola pieza y se instala en pocos días, lo que reduce el coste y el plazo de obra. Es una alternativa razonable para presupuestos ajustados, aunque limita las formas y tamaños disponibles a los modelos de catálogo del fabricante.</p>
+
+      <h2>Factores que determinan el precio de una piscina en Valencia</h2>
+      <ul>
+        <li><strong>Tamaño y profundidad:</strong> el coste no crece de forma lineal — pasar de 6x3 a 8x4 metros no duplica el precio, pero sí lo incrementa de forma notable por el volumen de excavación y hormigón.</li>
+        <li><strong>Tipo de terreno:</strong> terrenos con roca o niveles freáticos altos — frecuentes en algunas zonas de la huerta valenciana — encarecen la excavación y pueden requerir soluciones de drenaje adicionales.</li>
+        <li><strong>Acabado del vaso:</strong> el gresite es la opción más económica; el porcelánico gran formato y la piedra natural elevan el presupuesto pero ofrecen un resultado más premium y duradero.</li>
+        <li><strong>Sistema de depuración:</strong> la <strong>cloración salina</strong> cuesta algo más de instalación que el cloro tradicional, pero reduce el mantenimiento y es la opción que recomendamos en la mayoría de proyectos.</li>
+        <li><strong>Climatización y cubierta:</strong> una bomba de calor o una cubierta automática amplían la temporada de baño, pero son partidas adicionales sobre el vaso de la piscina.</li>
+      </ul>
+
+      <h2>Precios orientativos de una piscina en Valencia (2026)</h2>
+      <p>Como <strong>referencia orientativa con instalación incluida</strong>, estos son los rangos con los que trabajamos habitualmente en Valencia y área metropolitana:</p>
+      <ul>
+        <li><strong>Piscina de obra 6x3 m, acabado gresite:</strong> desde 18.000 €</li>
+        <li><strong>Piscina de obra 8x4 m, acabado porcelánico:</strong> desde 28.000 €</li>
+        <li><strong>Piscina desbordante a medida:</strong> desde 35.000 €</li>
+        <li><strong>Piscina prefabricada de poliéster (hasta 8x3 m):</strong> desde 14.000 €</li>
+        <li><strong>Climatización con bomba de calor:</strong> añade entre 3.000 y 5.000 € según potencia</li>
+      </ul>
+      <p>Estos precios incluyen <strong>excavación, vaso de hormigón gunitado, sistema de depuración, acabado estándar y puesta en marcha</strong>. Los acabados premium, la iluminación LED subacuática y los sistemas de cubierta automática se presupuestan aparte según el proyecto.</p>
+
+      <h2>Licencias y trámites para construir una piscina en Valencia</h2>
+      <p>Construir una piscina requiere <strong>licencia municipal de obras</strong> en la práctica totalidad de los ayuntamientos del área metropolitana de Valencia, incluso cuando se trata de una piscina prefabricada. El plazo de concesión y la documentación exigida varían según el municipio. En viviendas dentro de una <strong>comunidad de propietarios o urbanización</strong>, además, suele ser necesaria la aprobación previa en junta. Nos encargamos de la tramitación completa como parte del servicio, igual que hacemos en nuestros proyectos de <a href="/servicios/obra-nueva-valencia/"><strong>obra nueva</strong></a>.</p>
+
+      <h2>Preguntas frecuentes sobre construir una piscina en Valencia</h2>
+
+      <h3>¿Cuánto tarda la construcción de una piscina de obra?</h3>
+      <p>Entre <strong>6 y 10 semanas</strong> desde el inicio de la excavación hasta la puesta en marcha, dependiendo del tamaño, el acabado elegido y las condiciones del terreno. Los tiempos de licencia municipal se suman a este plazo y conviene solicitarla con antelación suficiente antes del verano.</p>
+
+      <h3>¿Es mejor construir la piscina en invierno?</h3>
+      <p>Sí. Iniciar la obra entre otoño e invierno permite tenerla lista para la primera ola de calor de primavera y evita los plazos de espera que se acumulan en la temporada alta, cuando la demanda de este tipo de obra se dispara en Valencia.</p>
+
+      <h3>¿Qué mantenimiento necesita una piscina de obra?</h3>
+      <p>Con un sistema de depuración salina bien dimensionado, el mantenimiento se reduce a la limpieza periódica del vaso, la revisión del nivel de sal y un control puntual del pH. Es significativamente menos exigente que el mantenimiento de una piscina con cloro tradicional.</p>
+
+      <p>Si estás valorando construir una piscina en tu vivienda en Valencia o área metropolitana, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">solicita presupuesto sin compromiso</a>. Estudiamos el terreno y te damos una propuesta cerrada en menos de 24 horas.</p>
+    `,
+  },
+  {
+    slug: 'precio-reforma-bano-valencia',
+    title: '¿Cuánto cuesta reformar un baño en Valencia? Precios y partidas 2026',
+    description: 'Reformar un baño en Valencia cuesta entre 3.500€ y más de 11.000€ según el alcance. Te explicamos qué incluye cada partida y qué mueve el presupuesto.',
+    date: '2026-08-12',
+    readTime: '6 min',
+    category: 'Reformas',
+    image: '/images/blog-bano-valencia.jpg',
+    content: `
+      <p>El baño es, junto con la cocina, la estancia que más beneficio aporta cuando se reforma: mejora el día a día de la vivienda y es uno de los espacios que más valora un comprador o inquilino. También es una de las reformas <strong>técnicamente más delicadas</strong>, porque implica fontanería, electricidad, impermeabilización y alicatado trabajando de forma coordinada. En este artículo te explicamos qué incluye una reforma de baño completa en Valencia y qué presupuesto manejar en <strong>2026</strong>, tanto si es una obra puntual como parte de una <a href="/servicios/reformas-integrales-valencia/"><strong>reforma integral de vivienda</strong></a>.</p>
+
+      <h2>Qué incluye una reforma de baño integral</h2>
+      <ul>
+        <li><strong>Demolición y retirada</strong> de sanitarios, alicatado y solado existentes.</li>
+        <li><strong>Renovación de fontanería y desagües</strong>, especialmente crítico en edificios anteriores a los años 90, donde las tuberías de plomo o fibrocemento suelen estar al final de su vida útil.</li>
+        <li><strong>Actualización eléctrica</strong> conforme al reglamento de baja tensión, con circuitos independientes y protección diferencial específica para zonas húmedas.</li>
+        <li><strong>Impermeabilización</strong> de suelo y paredes antes de alicatar, imprescindible para evitar filtraciones a la vivienda inferior.</li>
+        <li><strong>Alicatado y solado</strong> con los materiales elegidos.</li>
+        <li><strong>Sanitarios, grifería, mampara y mobiliario</strong> a medida o de catálogo.</li>
+      </ul>
+
+      <h2>Qué factores mueven el precio de reformar un baño</h2>
+      <ul>
+        <li><strong>Cambiar bañera por plato de ducha:</strong> implica romper solado y a veces mover el desagüe de posición, lo que añade coste de albañilería sobre una reforma que solo cambia acabados.</li>
+        <li><strong>Mover puntos de fontanería:</strong> reubicar el inodoro o el lavabo respecto a su posición original encarece la obra frente a mantener la distribución existente.</li>
+        <li><strong>Materiales:</strong> el gres cerámico estándar es la opción más económica; el porcelánico de gran formato y la piedra natural elevan el presupuesto de forma notable.</li>
+        <li><strong>Antigüedad del edificio:</strong> en fincas antiguas del centro de Valencia — Ruzafa, El Carmen, Extramurs — es frecuente encontrar instalaciones obsoletas que obligan a ampliar el alcance de la obra una vez abierto el suelo.</li>
+        <li><strong>Mobiliario a medida frente a catálogo:</strong> un mueble de baño fabricado a medida cuesta más que uno de catálogo, pero aprovecha mejor espacios irregulares.</li>
+      </ul>
+
+      <h2>Precios orientativos de una reforma de baño en Valencia (2026)</h2>
+      <p>Como <strong>referencia orientativa con mano de obra y materiales de gama media incluidos</strong>:</p>
+      <ul>
+        <li><strong>Reforma de refresco (alicatado, sanitarios y grifería, sin mover instalaciones):</strong> desde 3.500 €</li>
+        <li><strong>Reforma completa con cambio de bañera a ducha (baño de 4-5 m²):</strong> desde 5.800 €</li>
+        <li><strong>Reforma integral con cambio de distribución y mobiliario a medida:</strong> desde 8.500 €</li>
+        <li><strong>Reforma de baño de gama alta (materiales premium, domótica, iluminación integrada):</strong> desde 11.000 €</li>
+      </ul>
+      <p>Estos importes corresponden a un baño reformado de forma independiente. Si la obra se ejecuta junto con la <a href="/servicios/reformas-banos-cocinas-valencia/"><strong>reforma de la cocina</strong></a> o dentro de una <a href="/blog/cuanto-cuesta-reformar-piso-valencia/"><strong>reforma integral del piso</strong></a>, es habitual conseguir mejores condiciones al compartir desplazamientos de gremios y gestión de obra.</p>
+
+      <h2>¿Cuánto dura una reforma de baño?</h2>
+      <p>Un baño de tamaño medio se reforma en <strong>entre 2 y 4 semanas</strong> desde el inicio de la demolición hasta la colocación de sanitarios y grifería, siempre que no aparezcan sorpresas en las instalaciones al abrir el suelo o la pared. Si la reforma implica mover la distribución o coincide con otras obras en la vivienda, el plazo se amplía en consecuencia.</p>
+
+      <h2>Preguntas frecuentes sobre reformar un baño en Valencia</h2>
+
+      <h3>¿Puedo reformar el baño sin pedir licencia de obra?</h3>
+      <p>Una reforma de baño que no modifica la estructura ni la distribución general de la vivienda suele tramitarse con una simple <strong>declaración responsable</strong> en el Ayuntamiento, no con licencia de obra mayor. Si se mueven tabiques o se altera la fachada, el trámite cambia. Te asesoramos sobre qué aplica a tu caso concreto antes de empezar.</p>
+
+      <h3>¿Se puede vivir en casa mientras se reforma el baño?</h3>
+      <p>Sí, si la vivienda tiene más de un baño. Si es el único baño de la casa, lo habitual es organizar la obra para minimizar los días sin servicio, o valorar alojamiento temporal durante la fase de demolición y fontanería, que es la más disruptiva.</p>
+
+      <h3>¿Hay ayudas para reformar el baño en Valencia?</h3>
+      <p>Las ayudas públicas actuales se centran sobre todo en <a href="/blog/ayudas-rehabilitacion-fachadas-valencia/"><strong>rehabilitación energética y de fachadas</strong></a> de edificios completos, no en reformas de baño individuales. La excepción son las adaptaciones de accesibilidad (sustitución de bañera por ducha para personas con movilidad reducida), que en algunos casos sí cuentan con subvención municipal o autonómica.</p>
+
+      <p>Si quieres un presupuesto real para tu baño en Valencia, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">pide presupuesto gratuito</a>. Visitamos la vivienda, medimos el espacio y te entregamos una propuesta cerrada en menos de 24 horas.</p>
+    `,
+  },
+  {
+    slug: 'reforma-local-comercial-valencia',
+    title: 'Cómo reformar un local comercial en Valencia: licencias, plazos y presupuesto',
+    description: 'Reformar un local en Valencia implica licencia de actividad, instalaciones específicas y plazos que varían según el uso. Te explicamos el proceso y precios 2026.',
+    date: '2026-08-19',
+    readTime: '7 min',
+    category: 'Locales Comerciales',
+    image: '/images/blog-local-comercial-valencia.jpg',
+    content: `
+      <p>Abrir un negocio en Valencia implica algo más que decorar un espacio: un local comercial tiene que cumplir una normativa de actividad, instalaciones y accesibilidad que varía según lo que se vaya a hacer en él. Una cafetería, una clínica y una oficina de diseño parten de exigencias muy distintas aunque el local sea el mismo. En este artículo te explicamos qué implica realmente reformar un local comercial en Valencia, qué trámites hay que superar antes de abrir y qué presupuesto manejar en 2026, con la experiencia de nuestros proyectos de <a href="/servicios/reforma-locales-valencia/"><strong>reforma de locales comerciales</strong></a>.</p>
+
+      <h2>Qué incluye la reforma de un local comercial</h2>
+      <ul>
+        <li><strong>Interiorismo y distribución</strong> adaptados a la actividad: zona de atención al público, almacén, aseos adaptados, cocina si es hostelería.</li>
+        <li><strong>Instalación eléctrica específica</strong>: muchas actividades (hostelería, clínicas, talleres) requieren potencia trifásica y cuadros eléctricos dimensionados por encima de lo habitual en un local vacío.</li>
+        <li><strong>Climatización y extracción de humos</strong>, obligatoria en cualquier actividad de hostelería y regulada por ordenanza municipal en cuanto a salida de humos a fachada o cubierta.</li>
+        <li><strong>Accesibilidad</strong>: rampa o desnivel salvado, ancho de puertas y aseo adaptado son exigencias que la normativa aplica a prácticamente cualquier local de nueva actividad, con independencia de su tamaño.</li>
+        <li><strong>Protección contra incendios</strong>: salidas de emergencia, señalización y extintores dimensionados según el aforo previsto.</li>
+      </ul>
+
+      <h2>Licencia de actividad: el trámite que determina el plazo real</h2>
+      <p>El ritmo de la obra casi nunca es el cuello de botella de un local comercial: lo es la <strong>licencia de actividad</strong>. En Valencia existen, a grandes rasgos, dos vías:</p>
+      <ul>
+        <li><strong>Declaración responsable o comunicación previa:</strong> para actividades consideradas inocuas (comercio minorista, oficinas, la mayoría de despachos profesionales). Permite empezar la actividad desde el mismo momento de la presentación, aunque el Ayuntamiento puede inspeccionar después.</li>
+        <li><strong>Licencia ambiental o licencia de apertura:</strong> exigida para actividades con mayor impacto — hostelería con cocina, locales con música, talleres — que sí requieren resolución municipal expresa antes de abrir al público, con plazos de tramitación considerablemente más largos.</li>
+      </ul>
+      <p>Saber en qué categoría cae tu actividad <strong>antes de diseñar la reforma</strong> es la decisión que más tiempo y dinero ahorra en todo el proceso: cambiar de vía a mitad de obra por no haberlo comprobado con antelación es el motivo más habitual de retraso que vemos en proyectos de locales.</p>
+
+      <h2>Cuánto tarda reformar un local comercial en Valencia</h2>
+      <p>Una reforma de local de tamaño medio (80-150 m²) suele ejecutarse en <strong>6 a 10 semanas</strong> de obra una vez empieza. A eso hay que sumar el plazo del trámite de actividad: desde prácticamente inmediato con declaración responsable hasta varios meses con licencia ambiental, según la carga de trabajo del Ayuntamiento y la complejidad del proyecto técnico.</p>
+
+      <h2>Precios orientativos para reformar un local en Valencia (2026)</h2>
+      <p>Como <strong>referencia orientativa con instalación y acabados de gama media incluidos</strong>:</p>
+      <ul>
+        <li><strong>Reforma básica de oficina o tienda (sin instalaciones especiales):</strong> desde 400 €/m²</li>
+        <li><strong>Reforma de local con climatización y aseo adaptado:</strong> desde 550 €/m²</li>
+        <li><strong>Reforma con instalación de hostelería (cocina, extracción, trifásica):</strong> desde 750 €/m²</li>
+        <li><strong>Proyecto técnico y tramitación de licencia:</strong> según actividad y superficie, se presupuesta aparte</li>
+      </ul>
+      <p>El rango final depende del estado de partida del local — no es lo mismo un local a estrenar que uno que arrastra instalaciones de una actividad anterior incompatible con la nueva — y del nivel de acabado elegido.</p>
+
+      <h2>Errores más habituales al reformar un local comercial</h2>
+      <ul>
+        <li><strong>Empezar la obra antes de confirmar que la actividad está permitida</strong> en el local según el planeamiento urbanístico de la zona.</li>
+        <li><strong>No prever la potencia eléctrica real</strong> que necesitará la maquinaria o la cocina, lo que obliga después a ampliar el contrato con la compañía eléctrica y retrasa la apertura.</li>
+        <li><strong>Subestimar el plazo de la licencia ambiental</strong> y fijar una fecha de apertura antes de tener la resolución municipal.</li>
+      </ul>
+
+      <h2>Preguntas frecuentes sobre reformar un local comercial en Valencia</h2>
+
+      <h3>¿Puedo abrir el negocio mientras se resuelve la licencia?</h3>
+      <p>Con declaración responsable, sí: la actividad puede iniciarse desde la presentación del trámite. Con licencia ambiental, no — hay que esperar a la resolución municipal expresa antes de abrir al público, salvo que el ayuntamiento habilite una licencia provisional para casos concretos.</p>
+
+      <h3>¿Qué pasa si el local no tiene la actividad permitida en esa ubicación?</h3>
+      <p>Antes de firmar el alquiler o la compra de un local conviene comprobar la <strong>compatibilidad urbanística</strong> de la actividad prevista con el uso del inmueble y de la zona. Es una verificación que hacemos como primer paso en cualquier proyecto, porque condiciona todo lo demás.</p>
+
+      <h3>¿Cuánto tarda la licencia de actividad en Valencia?</h3>
+      <p>Con declaración responsable, el trámite es prácticamente inmediato. Con licencia ambiental, el plazo habitual se mueve entre <strong>2 y 6 meses</strong> según la actividad y la carga de expedientes del Ayuntamiento en ese momento — por eso conviene iniciarlo cuanto antes, en paralelo al proyecto de obra.</p>
+
+      <p>Si tienes un local en Valencia y quieres reformarlo para abrir tu negocio, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">solicita presupuesto sin compromiso</a>. Te ayudamos también a verificar la viabilidad de la actividad antes de empezar.</p>
+    `,
+  },
 ]
 
 export const BLOG_CATEGORIES = [
