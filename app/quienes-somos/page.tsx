@@ -4,7 +4,7 @@ import ContactForm from '@/components/ContactForm'
 import { SITE } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Quiénes Somos | Tu Constructora en Valencia desde 2008',
+  title: 'Quiénes Somos — Tu Constructora en Valencia desde 2008',
   description: 'Conoce al equipo de Constructora en Valencia. Más de 15 años construyendo obra nueva, reformas y rehabilitaciones en Valencia y área metropolitana con garantías legales.',
   alternates: { canonical: `${SITE.url}/quienes-somos/` },
   openGraph: {
