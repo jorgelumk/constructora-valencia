@@ -1,15 +1,16 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import ContactForm from '@/components/ContactForm'
+import { SITE } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Quiénes Somos | Constructora en Valencia con +15 Años',
-  description: 'Conoce el equipo de Constructora en Valencia. Empresa constructora con más de 15 años de experiencia, clasificación de contratista, seguro decenal y garantía total en cada proyecto.',
-  alternates: { canonical: 'https://constructoravalencia.com/quienes-somos/' },
+  title: 'Quiénes Somos | Tu Constructora en Valencia desde 2008',
+  description: 'Conoce al equipo de Constructora en Valencia. Más de 15 años construyendo obra nueva, reformas y rehabilitaciones en Valencia y área metropolitana con garantías legales.',
+  alternates: { canonical: `${SITE.url}/quienes-somos/` },
   openGraph: {
     title: 'Quiénes Somos | Constructora en Valencia',
-    description: 'Empresa constructora valenciana con +15 años de experiencia. Equipo técnico propio, clasificación de contratista y seguro decenal.',
-    url: 'https://constructoravalencia.com/quienes-somos/',
+    description: 'Más de 15 años construyendo en Valencia con arquitectos propios, garantías legales y más de 350 proyectos entregados.',
+    url: `${SITE.url}/quienes-somos/`,
   },
 }
 

@@ -3,11 +3,9 @@ import { SITE } from '@/lib/constants'
 import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Aviso Legal | ' + SITE.name,
-  robots: {
-    index: false,
-    follow: false,
-  },
+  title: 'Aviso Legal',
+  robots: { index: false, follow: true },
+  alternates: { canonical: `${SITE.url}/aviso-legal/` },
 }
 
 export default function AvisoLegalPage() {

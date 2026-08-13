@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   description:
     'Portfolio de obras de Constructora en Valencia: obra nueva, reformas integrales, rehabilitación, naves industriales y locales comerciales. +350 proyectos ejecutados.',
   alternates: { canonical: `${SITE.url}/proyectos/` },
+  openGraph: {
+    title: 'Proyectos Realizados en Valencia | Portfolio de Obras',
+    description: 'Más de 350 proyectos completados en Valencia. Obra nueva, reformas, rehabilitación, naves industriales y locales comerciales.',
+    url: `${SITE.url}/proyectos/`,
+  },
 }
 
 export default function ProyectosPage() {

@@ -11,6 +11,11 @@ export const metadata: Metadata = {
   description:
     'Todos los servicios de Constructora en Valencia: obra nueva, reformas integrales, rehabilitación, locales comerciales, baños y cocinas, naves industriales y promoción inmobiliaria.',
   alternates: { canonical: `${SITE.url}/servicios/` },
+  openGraph: {
+    title: 'Servicios de Construcción y Reforma en Valencia',
+    description: 'Obra nueva, reformas integrales, rehabilitación, naves industriales y locales comerciales. Una sola empresa para todos tus proyectos.',
+    url: `${SITE.url}/servicios/`,
+  },
 }
 
 export default function ServiciosPage() {

@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-900 text-slate-400">
       <div className="container-xl py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
@@ -50,10 +50,22 @@ export default function Footer() {
             <p className="text-white font-semibold mb-4">Empresa</p>
             <ul className="space-y-2 text-sm">
               <li><Link href="/" className="hover:text-brand-accent transition-colors">Inicio</Link></li>
+              <li><Link href="/quienes-somos/" className="hover:text-brand-accent transition-colors">Quiénes somos</Link></li>
               <li><Link href="/servicios/" className="hover:text-brand-accent transition-colors">Todos los servicios</Link></li>
               <li><Link href="/proyectos/" className="hover:text-brand-accent transition-colors">Proyectos realizados</Link></li>
               <li><Link href="/blog/" className="hover:text-brand-accent transition-colors">Blog de construcción</Link></li>
               <li><Link href="/contacto/" className="hover:text-brand-accent transition-colors">Contacto y presupuesto</Link></li>
+            </ul>
+          </div>
+
+          {/* Zonas */}
+          <div>
+            <p className="text-white font-semibold mb-4">Zonas donde trabajamos</p>
+            <ul className="space-y-2 text-sm">
+              <li><Link href="/constructora-paterna/" className="hover:text-brand-accent transition-colors">Constructora en Paterna</Link></li>
+              <li><Link href="/constructora-torrent/" className="hover:text-brand-accent transition-colors">Constructora en Torrent</Link></li>
+              <li><Link href="/constructora-leliana/" className="hover:text-brand-accent transition-colors">Constructora en L&apos;Eliana</Link></li>
+              <li><Link href="/constructora-rocafort/" className="hover:text-brand-accent transition-colors">Constructora en Rocafort</Link></li>
             </ul>
           </div>
 

@@ -5,10 +5,15 @@ import { LocalBusinessSchema } from '@/components/JsonLd'
 import { SITE } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Contacto y Presupuesto Gratis | Constructora en Valencia',
+  title: 'Contacto y Presupuesto Gratis en 24h',
   description:
-    'Contacta con Constructora en Valencia para solicitar presupuesto gratuito en 24h. ☎ 960 73 12 06 · Carrer de Sant Vicent Màrtir, 85, Valencia. Lunes a viernes de 8:00 a 19:00.',
+    'Contacta con Constructora en Valencia para solicitar presupuesto gratuito en 24h. ☀️ 960 73 12 06 · Carrer de Sant Vicent Màrtir, 85, Valencia. Lunes a viernes de 8:00 a 19:00.',
   alternates: { canonical: `${SITE.url}/contacto/` },
+  openGraph: {
+    title: 'Contacto y Presupuesto Gratis | Constructora en Valencia',
+    description: 'Solicita presupuesto gratuito en 24h. Llama al 960 73 12 06 o escríbenos. Visitamos tu proyecto sin compromiso.',
+    url: `${SITE.url}/contacto/`,
+  },
 }
 
 const INFO_ITEMS = [

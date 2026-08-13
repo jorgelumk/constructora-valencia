@@ -9,11 +9,14 @@ export default function Hero() {
       {/* Background */}
       <div className="absolute inset-0 -z-10">
         <Image
-          src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1800&q=80"
+          src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1800&q=75"
           alt="Constructora en Valencia — obra en ejecución"
           fill
           className="object-cover"
           priority
+          fetchPriority="high"
+          sizes="100vw"
+          quality={75}
         />
         <div className="absolute inset-0 bg-gradient-to-r from-brand-dark/95 via-brand-dark/80 to-brand-dark/40" />
       </div>

@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const project = PROJECTS.find((p) => p.slug === params.slug)
   if (!project) return {}
   return {
-    title: `${project.title} | ${project.location} - Constructora en Valencia`,
+    title: `${project.title} | ${project.location}`,
     description: project.description,
     alternates: { canonical: `${SITE.url}/proyectos/${project.slug}/` },
     openGraph: {

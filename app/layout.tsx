@@ -29,6 +29,7 @@ export const metadata: Metadata = {
     title: 'Constructora en Valencia | Obra Nueva, Reformas y Rehabilitación',
     description:
       'Empresa constructora en Valencia con +15 años de experiencia. Obra nueva, reformas integrales, rehabilitación y naves industriales. Presupuesto gratis en 24h.',
+    images: [{ url: '/og-image.jpg', width: 1200, height: 630, alt: 'Constructora en Valencia' }],
   },
   twitter: { card: 'summary_large_image' },
   alternates: { canonical: SITE.url },
@@ -42,61 +43,9 @@ export const metadata: Metadata = {
   },
 }
 
-const schemaOrg = {
-  '@context': 'https://schema.org',
-  '@type': 'GeneralContractor',
-  name: 'Constructora en Valencia',
-  url: 'https://constructoravalencia.com',
-  telephone: '+34960731206',
-  email: 'info@constructoravalencia.com',
-  foundingDate: '2008',
-  priceRange: '€€€',
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: 'Carrer de Sant Vicent Màrtir, 85',
-    addressLocality: 'Valencia',
-    postalCode: '46002',
-    addressRegion: 'Comunitat Valenciana',
-    addressCountry: 'ES',
-  },
-  geo: {
-    '@type': 'GeoCoordinates',
-    latitude: 39.4699,
-    longitude: -0.3763,
-  },
-  areaServed: [
-    'Valencia', 'Paterna', 'Torrent', 'Burjassot',
-    "L'Eliana", 'Rocafort', 'Riba-roja de Túria', 'Mislata',
-    'Sagunto', 'Alzira', 'Gandía',
-  ],
-  openingHoursSpecification: [
-    {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-      opens: '08:00',
-      closes: '19:00',
-    },
-    {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: 'Saturday',
-      opens: '09:00',
-      closes: '14:00',
-    },
-  ],
-  sameAs: [
-    'https://constructoravalencia.com',
-  ],
-}
-
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" className={jakarta.variable}>
-      <head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrg) }}
-        />
-      </head>
       <body className="font-sans antialiased text-slate-800 bg-white">
         <Navbar />
         <main>{children}</main>

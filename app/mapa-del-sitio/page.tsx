@@ -5,9 +5,9 @@ import { BLOG_POSTS } from '@/lib/blog-data'
 import { PROJECTS } from '@/lib/projects-data'
 
 export const metadata: Metadata = {
-  title: 'Mapa del Sitio | Constructora en Valencia',
+  title: 'Mapa del Sitio',
   description: 'Encuentra todas las páginas de Constructora Valencia: servicios de construcción, proyectos realizados, blog y contacto.',
-  robots: { index: true, follow: true },
+  robots: { index: false, follow: true },
   alternates: { canonical: 'https://constructoravalencia.com/mapa-del-sitio/' },
 }
 

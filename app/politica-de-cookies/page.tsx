@@ -3,11 +3,9 @@ import { SITE } from '@/lib/constants'
 import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Política de Cookies | ' + SITE.name,
-  robots: {
-    index: false,
-    follow: false,
-  },
+  title: 'Política de Cookies',
+  robots: { index: false, follow: true },
+  alternates: { canonical: `${SITE.url}/politica-de-cookies/` },
 }
 
 export default function PoliticaCookiesPage() {

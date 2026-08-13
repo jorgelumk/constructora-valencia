@@ -3,11 +3,9 @@ import { SITE } from '@/lib/constants'
 import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Política de Privacidad | ' + SITE.name,
-  robots: {
-    index: false,
-    follow: false,
-  },
+  title: 'Política de Privacidad',
+  robots: { index: false, follow: true },
+  alternates: { canonical: `${SITE.url}/politica-privacidad/` },
 }
 
 export default function PoliticaPrivacidadPage() {

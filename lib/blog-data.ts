@@ -19,7 +19,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Reformas',
     image: 'https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80',
     content: `
-      <h1>Reformas Integrales en Valencia: La Guía Completa para Transformar tu Hogar</h1>
+      <h2>Reformas Integrales en Valencia: La Guía Completa para Transformar tu Hogar</h2>
       <p>Llevar a cabo <strong>reformas integrales en Valencia</strong> es una de las decisiones más importantes y emocionantes que puedes tomar para mejorar tu calidad de vida. Ya sea que busques modernizar un piso antiguo en el centro de la ciudad, adaptar tu vivienda a las nuevas necesidades de tu familia o simplemente revalorizar una propiedad para su posterior venta, una renovación completa ofrece un abanico infinito de posibilidades.</p>
       
       <h2>¿Por qué considerar una renovación completa de tu vivienda?</h2>
@@ -50,7 +50,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
       <h2>Conclusión</h2>
       <p>Embarcarse en renovar tu hogar es un proceso transformador que, con la planificación adecuada, resultará en el espacio de tus sueños.</p>
-      <p>Si estás pensando en transformar tu vivienda y buscas profesionales de confianza para llevar a cabo <strong>reformas integrales en Valencia</strong>, <a href="/contacto">contacta con nosotros hoy mismo</a> y solicita un presupuesto sin compromiso.</p>
+      <p>Si estás pensando en transformar tu vivienda y buscas profesionales de confianza para llevar a cabo <strong>reformas integrales en Valencia</strong>, <a href="/contacto/">contacta con nosotros hoy mismo</a> y solicita un presupuesto sin compromiso.</p>
     `,
   },
   {
@@ -173,7 +173,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80',
     content: `
-      <h1>Construcción de viviendas de obra nueva en Valencia</h1>
+      <h2>Construcción de viviendas de obra nueva en Valencia</h2>
       <p>El sueño de tener una casa propia se materializa de la mejor manera con la <strong>construcción de viviendas de obra nueva en Valencia</strong>. Diseñar un espacio desde cero, adaptado totalmente a tus necesidades y gustos, es una de las decisiones más importantes. Te contamos cómo abordar este proceso de forma exitosa y sin sobresaltos.</p>
       
       <h2>Ventajas de construir tu casa desde cero en la capital del Turia</h2>
@@ -189,12 +189,12 @@ export const BLOG_POSTS: BlogPost[] = [
       <p>Un equipo de arquitectos se encarga de plasmar tus ideas en planos, respetando siempre el Código Técnico de la Edificación. Simultáneamente, se gestionan las licencias de obra mayor en el ayuntamiento correspondiente, un trámite que requiere paciencia y rigor técnico por parte del estudio.</p>
       
       <h2>Calidades y materiales más demandados actualmente</h2>
-      <p>Hoy en día, la sostenibilidad marca la pauta. Los aislamientos térmicos avanzados, la aerotermia y la instalación de paneles solares son prácticamente estándares en la zona. En cuanto a acabados, los porcelánicos de gran formato, las maderas naturales y los grandes ventanales dominan el mercado de las casas modernas. Si te interesa explorar estas opciones para otro tipo de espacios, puedes consultar nuestros <a href="/proyectos">proyectos</a>.</p>
+      <p>Hoy en día, la sostenibilidad marca la pauta. Los aislamientos térmicos avanzados, la aerotermia y la instalación de paneles solares son prácticamente estándares en la zona. En cuanto a acabados, los porcelánicos de gran formato, las maderas naturales y los grandes ventanales dominan el mercado de las casas modernas. Si te interesa explorar estas opciones para otro tipo de espacios, puedes consultar nuestros <a href="/proyectos/">proyectos</a>.</p>
       
       <h2>Conclusión</h2>
       <p>Embarcarse en la edificación de tu propio hogar es un camino emocionante si cuentas con los profesionales adecuados. Planificar con detalle cada fase asegura que el resultado final supere tus expectativas y se convierta en una inversión segura a largo plazo.</p>
       
-      <p>¿Estás listo para dar el primer paso hacia tu hogar ideal? En Constructora en Valencia gestionamos tu proyecto de principio a fin de manera integral. <a href="/contacto">Contacta con nosotros</a> y cuéntanos tu idea para que podamos asesorarte sin compromiso.</p>
+      <p>¿Estás listo para dar el primer paso hacia tu hogar ideal? En Constructora en Valencia gestionamos tu proyecto de principio a fin de manera integral. <a href="/contacto/">Contacta con nosotros</a> y cuéntanos tu idea para que podamos asesorarte sin compromiso.</p>
     `,
   },
   {
@@ -207,14 +207,14 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80',
     content: `
-      <h1>Diseño de chalets de obra nueva en Valencia</h1>
+      <h2>Diseño de chalets de obra nueva en Valencia</h2>
       <p>El <strong>diseño de chalets de obra nueva en Valencia</strong> evoluciona constantemente para adaptarse a los nuevos estilos de vida. La búsqueda de amplitud, la conexión con el entorno exterior y la tecnología inteligente son ahora los pilares fundamentales. Si planeas construir tu vivienda unifamiliar, te mostramos lo que está marcando la diferencia este año.</p>
       
       <h2>Integración total entre interior y exterior</h2>
       <p>El clima valenciano invita a vivir hacia afuera. Por ello, las fronteras entre el salón y la terraza o el jardín se desdibujan por completo. Utilizamos ventanales correderos de suelo a techo con perfilería oculta que permiten unir los espacios con un solo movimiento. Las piscinas desbordantes y las zonas chill-out se convierten en una extensión natural de la zona de día.</p>
       
       <h2>Distribuciones diáfanas y funcionales</h2>
-      <p>Las plantas compartimentadas han dejado paso a los espacios fluidos y diáfanos. La cocina, el comedor y el salón comparten un mismo volumen luminoso y continuo. Esta configuración fomenta la interacción familiar y maximiza la entrada de luz natural en cada rincón del hogar, un aspecto muy valorado en la arquitectura residencial actual. Para adaptar estas ideas a espacios ya construidos, puedes leer sobre las <a href="/blog/tendencias-reformas-cocinas-valencia">tendencias en reformas de cocinas</a>.</p>
+      <p>Las plantas compartimentadas han dejado paso a los espacios fluidos y diáfanos. La cocina, el comedor y el salón comparten un mismo volumen luminoso y continuo. Esta configuración fomenta la interacción familiar y maximiza la entrada de luz natural en cada rincón del hogar, un aspecto muy valorado en la arquitectura residencial actual. Para adaptar estas ideas a espacios ya construidos, puedes leer sobre las <a href="/blog/tendencias-reformas-cocinas-valencia/">tendencias en reformas de cocinas</a>.</p>
       
       <h2>Casas inteligentes y sostenibles</h2>
       <p>La domótica ha dejado de ser un lujo para convertirse en una herramienta de confort y ahorro indispensable. El control de persianas, climatización e iluminación mediante el smartphone o comandos de voz es habitual en todas nuestras construcciones. Además, el uso de sistemas constructivos en seco y materiales reciclados reduce el impacto ambiental de la construcción y mejora el aislamiento acústico y térmico del chalet.</p>
@@ -222,7 +222,7 @@ export const BLOG_POSTS: BlogPost[] = [
       <h2>Conclusión</h2>
       <p>Crear una residencia única implica conocer y aplicar las innovaciones arquitectónicas más destacadas. El objetivo siempre es conseguir una casa que no solo sea estéticamente impactante, sino también extremadamente cómoda, eficiente y preparada para el día a día.</p>
       
-      <p>Si quieres que diseñemos un chalet que refleje tu personalidad y las mejores tendencias arquitectónicas, cuenta con nuestro equipo de expertos. <a href="/contacto">Solicita información</a> y empezaremos a dar forma al proyecto de tus sueños desde hoy mismo.</p>
+      <p>Si quieres que diseñemos un chalet que refleje tu personalidad y las mejores tendencias arquitectónicas, cuenta con nuestro equipo de expertos. <a href="/contacto/">Solicita información</a> y empezaremos a dar forma al proyecto de tus sueños desde hoy mismo.</p>
     `,
   },
   {
@@ -234,7 +234,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&q=80',
     content: `
-      <h1>Las mejores zonas de Valencia para vivir en 2026</h1>
+      <h2>Las mejores zonas de Valencia para vivir en 2026</h2>
       <p>Elegir la ubicación perfecta es el primer paso antes de plantearse la <a href="/servicios/obra-nueva-valencia/">construcción de una vivienda</a>. Las <strong>mejores zonas de Valencia para vivir</strong> combinan infraestructuras de primer nivel, conexiones excelentes y un entorno que fomenta la calidad de vida. A continuación, analizamos los barrios y áreas metropolitanas más destacadas.</p>
       
       <h2>L'Eixample y Ruzafa: El corazón vibrante de la ciudad</h2>
@@ -261,7 +261,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80',
     content: `
-      <h1>Zonas con alta previsión inmobiliaria en Valencia</h1>
+      <h2>Zonas con alta previsión inmobiliaria en Valencia</h2>
       <p>Invertir en suelo hoy requiere visión de futuro. Conocer las <strong>zonas con alta previsión en Valencia</strong> te permite adquirir terrenos a precios más competitivos y asegurar una revalorización significativa a medio y largo plazo. El desarrollo urbanístico de la ciudad está marcando nuevas fronteras que merece la pena explorar.</p>
 
       <h2>El PAI del Grao y la conexión con el mar</h2>
@@ -288,7 +288,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80',
     content: `
-      <h1>Mejores municipios para invertir en Valencia</h1>
+      <h2>Mejores municipios para invertir en Valencia</h2>
       <p>El área metropolitana de la capital del Turia es un imán para el capital inmobiliario. Identificar los <strong>mejores municipios para invertir en Valencia</strong> es crucial tanto para promotores que buscan rentabilidad a través del alquiler o venta, como para familias que desean construir su primera vivienda. Analizamos los mercados más atractivos.</p>
 
       <h2>L'Horta Nord: Calidad de vida y conectividad</h2>
@@ -315,7 +315,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Reformas',
     image: 'https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?w=1200&q=80',
     content: `
-      <h1>Zonas con más rentabilidad en Valencia para inversiones</h1>
+      <h2>Zonas con más rentabilidad en Valencia para inversiones</h2>
       <p>Para aquellos enfocados en el modelo de "comprar, reformar y alquilar" (o vender), conocer las <strong>zonas con más rentabilidad en Valencia</strong> es la piedra angular del éxito. El mercado inmobiliario valenciano ofrece retornos muy por encima de la media nacional si se sabe dónde y cómo actuar.</p>
 
       <h2>Poblados Marítimos: El tirón del Cabanyal</h2>
@@ -342,7 +342,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Trámites y Permisos',
     image: 'https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1200&q=80',
     content: `
-      <h1>Permisos necesarios para la obra nueva en España y Valencia</h1>
+      <h2>Permisos necesarios para la obra nueva en España y Valencia</h2>
       <p>Uno de los mayores temores al iniciar un proyecto desde cero es la burocracia. Entender los <strong>permisos necesarios para la obra nueva en España y Valencia</strong> es fundamental para evitar paralizaciones y sanciones. Aunque el marco general es estatal, los ayuntamientos tienen la última palabra normativa.</p>
 
       <h2>Normativa estatal vs local: ¿Son diferentes?</h2>
@@ -375,7 +375,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Reformas',
     image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1200&q=80',
     content: `
-      <h1>¿Cómo encontrar proveedores para una reforma integral?</h1>
+      <h2>¿Cómo encontrar proveedores para una reforma integral?</h2>
       <p>Embarcarse en una rehabilitación requiere más que buenos materiales; requiere un equipo humano impecable. Si te preguntas <strong>cómo encontrar proveedores para una reforma</strong>, la respuesta reside en la organización, la transparencia y las garantías. Una mala elección puede transformar tu proyecto soñado en una pesadilla de sobrecostes y retrasos.</p>
 
       <h2>Criterios para seleccionar una empresa constructora</h2>
@@ -401,7 +401,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Reformas',
     image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80',
     content: `
-      <h1>Ranking de las mejores empresas constructoras en Valencia</h1>
+      <h2>Ranking de las mejores empresas constructoras en Valencia</h2>
       <p>A la hora de afrontar un proyecto de edificación o una reforma de gran envergadura, contar con el aliado adecuado es vital. Analizar el <strong>listado de empresas constructoras en Valencia</strong> puede resultar abrumador dada la amplia oferta disponible en la provincia. Por ello, hemos elaborado un <strong>ranking de empresas constructoras en Valencia</strong> basándonos en criterios de calidad, innovación, opiniones de clientes y solvencia técnica en la ejecución de proyectos durante este último año.</p>
 
       <h2>Criterios para evaluar a las mejores empresas constructoras en Valencia</h2>
@@ -437,7 +437,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80',
     content: `
-      <h1>Grandes firmas y figuras de la construcción en Valencia</h1>
+      <h2>Grandes firmas y figuras de la construcción en Valencia</h2>
       <p>El panorama urbanístico y arquitectónico de la capital del Turia no se entendería sin el trabajo de las principales firmas y profesionales que han moldeado sus calles a lo largo de las décadas. Desde las grandes infraestructuras hasta los ensanches residenciales, el sector ha estado liderado por nombres propios. Hoy analizamos a las empresas y figuras que han marcado la historia de la construcción en nuestra región.</p>
 
       <h2>Firmas históricas: El motor del desarrollo valenciano</h2>
@@ -466,7 +466,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Trámites y Permisos',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80',
     content: `
-      <h1>El seguro de responsabilidad civil para el constructor en Valencia</h1>
+      <h2>El seguro de responsabilidad civil para el constructor en Valencia</h2>
       <p>Involucrarse en cualquier tipo de obra, ya sea una edificación de nueva planta o una reforma profunda, conlleva riesgos inherentes. Contar con un <strong>seguro de responsabilidad civil para constructores en Valencia</strong> no es solo una exigencia legal en la mayoría de los casos, sino la red de seguridad más importante para todas las partes implicadas: la empresa, los trabajadores y, por supuesto, el propietario de la vivienda.</p>
 
       <h2>¿Qué cubre exactamente este tipo de póliza?</h2>
@@ -497,7 +497,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Obra Nueva',
     image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=80',
     content: `
-      <h1>Ventajas de hacerte una casa con una constructora de confianza en Valencia</h1>
+      <h2>Ventajas de hacerte una casa con una constructora de confianza en Valencia</h2>
       <p>Dar el paso de adquirir una vivienda o construir un chalet a medida es probablemente una de las inversiones más importantes de la vida. Muchas personas dudan entre comprar sobre plano, adquirir una vivienda de segunda mano o edificar desde cero. Sin embargo, la verdadera clave del éxito radica en el equipo que te acompaña. <strong>Comprar una casa en Valencia con una constructora de confianza</strong> o encargarles su edificación integral transforma un proceso habitualmente estresante en una experiencia ilusionante y segura.</p>
 
       <h2>Gestión integral: Un único interlocutor</h2>

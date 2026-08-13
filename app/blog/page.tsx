@@ -9,6 +9,11 @@ export const metadata: Metadata = {
   description:
     'Blog de Constructora en Valencia: guías de precios, consejos de reforma, normativa de obras, subvenciones y todo lo que necesitas saber sobre construcción en Valencia.',
   alternates: { canonical: `${SITE.url}/blog/` },
+  openGraph: {
+    title: 'Blog de Construcción en Valencia | Guías y Consejos',
+    description: 'Guías de precios, consejos de reforma y todo lo que necesitas saber antes de lanzarte a un proyecto en Valencia.',
+    url: `${SITE.url}/blog/`,
+  },
 }
 
 import BlogClient from '@/components/BlogClient'
