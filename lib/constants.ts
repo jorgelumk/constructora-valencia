@@ -148,7 +148,7 @@ export const SERVICES: Service[] = [
     category: 'Construcción Residencial',
     metaTitle: 'Construcción de Piscinas en Valencia | De Obra y Desbordantes',
     metaDesc: 'Construimos tu piscina a medida en Valencia. Piscinas de hormigón gunitado, cloración salina y revestimientos modernos. Llama ahora.',
-    image: 'https://images.unsplash.com/photo-1576013551627-11971f498c56?w=1200&q=80',
+    image: '/images/stock/1576013551627-0cc20b96c2a7.jpg',
     features: [
       'Excavación y preparación del terreno',
       'Hormigón gunitado vía húmeda (máxima estanqueidad)',
