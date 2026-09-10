@@ -861,7 +861,166 @@ export const BLOG_POSTS: BlogPost[] = [
       <p>Si tienes un local en Valencia y quieres reformarlo para abrir tu negocio, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">solicita presupuesto sin compromiso</a>. Te ayudamos también a verificar la viabilidad de la actividad antes de empezar.</p>
     `,
   },
+  {
+    slug: 'ieev-cv-ite-valencia-obligatoriedad',
+    title: 'IEEV.CV en Valencia: qué es y cuándo es obligatorio',
+    description: 'El IEEV.CV es obligatorio en la Comunitat Valenciana para edificios de más de 50 años. Te explicamos qué evalúa, plazos y qué pasa si no lo tramitas.',
+    date: '2026-09-01',
+    readTime: '4 min',
+    category: 'Trámites y Permisos',
+    image: '/images/blog-ieev-cv-valencia.jpg',
+    content: `
+      <p>Si vives en un edificio de cierta antigüedad en Valencia, es probable que hayas oído hablar de la <strong>ITE</strong> (Inspección Técnica de Edificios), el término genérico que se usa en toda España. Pero en la Comunitat Valenciana este trámite tiene nombre propio y un contenido más amplio: el <strong>IEEV.CV</strong>, el Informe de Evaluación del Edificio de la Comunitat Valenciana. Es una obligación legal que afecta a buena parte del parque residencial de la ciudad, y no tramitarla a tiempo tiene consecuencias reales para la comunidad de propietarios. Te explicamos qué es, cuándo es obligatoria y cómo la gestionamos en nuestros proyectos de <a href="/servicios/rehabilitacion-edificios-valencia/"><strong>rehabilitación de edificios en Valencia</strong></a>.</p>
+      
+      <h2>¿Qué es el IEEV.CV y en qué se diferencia de la ITE?</h2>
+      <p>La ITE tradicional se limita a evaluar el estado de conservación del edificio: estructura, fachadas, cubiertas e instalaciones comunes. El <strong>IEEV.CV va más allá</strong>: además de la conservación, evalúa la <strong>accesibilidad universal</strong> del edificio (si dispone de ascensor, si el acceso está adaptado, si existen barreras arquitectónicas) y exige un <strong>certificado de eficiencia energética</strong> actualizado. Es, en la práctica, una radiografía completa del edificio en tres bloques.</p>
+      
+      <h2>¿Cuándo es obligatorio el IEEV.CV en la Comunitat Valenciana?</h2>
+      <p>La normativa valenciana establece la obligación en dos supuestos:</p>
+      <ul>
+        <li><strong>Por antigüedad:</strong> todos los edificios de uso residencial, tanto unifamiliares como plurifamiliares, están obligados a tramitar el IEEV.CV cuando alcanzan <strong>50 años de antigüedad</strong>. El plazo para presentarlo vence el <strong>31 de diciembre del año siguiente</strong> a aquel en que el edificio cumple los 50 años.</li>
+        <li><strong>Por acceso a ayudas públicas:</strong> si la comunidad de propietarios quiere solicitar <a href="/blog/ayudas-rehabilitacion-fachadas-valencia/"><strong>ayudas y subvenciones para rehabilitación</strong></a>, necesita el IEEV.CV tramitado con independencia de la edad del edificio.</li>
+      </ul>
+      <p>Una vez presentado, el informe tiene una <strong>validez de 10 años</strong>, y no pueden pasar más de tres meses entre la fecha de la inspección técnica y la presentación telemática del informe en el registro autonómico.</p>
+      
+      <h2>¿Qué pasa si la comunidad no tramita el IEEV.CV a tiempo?</h2>
+      <p>No tramitarlo en plazo puede derivar en <strong>sanciones municipales</strong> a la comunidad de propietarios y, en la práctica, deja al edificio fuera de cualquier programa de ayudas a la rehabilitación mientras no se regularice. Además, si el informe detecta deficiencias graves de conservación, el Ayuntamiento puede requerir a la propiedad la ejecución de las obras necesarias en un plazo determinado.</p>
+      
+      <h2>Cómo se tramita el IEEV.CV paso a paso</h2>
+      <ol>
+        <li><strong>Inspección técnica del edificio</strong> por un técnico competente (arquitecto o aparejador), que revisa estructura, fachadas, cubiertas, instalaciones comunes y accesibilidad.</li>
+        <li><strong>Redacción del informe</strong> con el diagnóstico de conservación, el nivel de accesibilidad y la calificación energética.</li>
+        <li><strong>Presentación telemática</strong> en el registro autonómico de la Generalitat Valenciana, dentro de los tres meses posteriores a la inspección.</li>
+        <li><strong>Ejecución de las obras de subsanación</strong>, si el informe detecta deficiencias que lo requieran.</li>
+      </ol>
+      <p>En nuestros proyectos de rehabilitación nos encargamos del proceso completo — <strong>inspección y subsanación de IEEV.CV</strong> incluida — como hicimos en la <a href="/proyectos/rehabilitacion-finca-benimaclet/"><strong>rehabilitación de una finca en Benimaclet</strong></a>, donde el informe detectó la necesidad de aislamiento SATE y sustitución de cubierta de fibrocemento.</p>
+      
+      <h2>Qué hacer si el informe detecta deficiencias</h2>
+      <p>Es el escenario más habitual en edificios de más de 50 años: fachadas con desprendimientos, cubiertas obsoletas o instalaciones comunitarias al final de su vida útil. Lo importante es no tramitar el IEEV.CV como un formalismo aislado, sino como el primer paso de un plan de <a href="/servicios/rehabilitacion-edificios-valencia/"><strong>rehabilitación de edificios</strong></a> que resuelva las deficiencias detectadas y, de paso, mejore la calificación energética del inmueble — un factor que cada vez pesa más en el valor de la vivienda.</p>
+      
+      <h2>Preguntas frecuentes sobre el IEEV.CV en Valencia</h2>
+      <h3>¿Quién paga el IEEV.CV en una comunidad de propietarios?</h3>
+      <p>El coste se reparte entre todos los propietarios según su cuota de participación en la comunidad, igual que el resto de gastos comunitarios. La obligación legal recae sobre la comunidad como titular del edificio en régimen de propiedad horizontal.</p>
+      
+      <h3>¿Cuánto cuesta tramitar el IEEV.CV?</h3>
+      <p>El coste depende del tamaño del edificio, el número de viviendas y si es necesario emitir un nuevo certificado energético. Como referencia, para un edificio residencial de tamaño medio en Valencia el informe técnico suele moverse en una horquilla de <strong>600 a 1.500 €</strong>, al margen del coste de las obras de subsanación si el informe las requiere.</p>
+      
+      <h3>¿El IEEV.CV es lo mismo que la ITE de otras comunidades autónomas?</h3>
+      <p>Cubre el mismo objetivo —garantizar que el edificio está en condiciones adecuadas de seguridad y uso— pero el IEEV.CV valenciano incorpora de forma obligatoria la evaluación de accesibilidad y el certificado energético, que en otras comunidades autónomas se tramitan de forma independiente a la ITE.</p>
+      
+      <p>Si tu edificio se acerca a los 50 años o tu comunidad necesita tramitar el IEEV.CV, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">solicita una visita técnica sin compromiso</a>. Gestionamos el informe y, si detecta deficiencias, ejecutamos directamente las obras de subsanación.</p>
+    `
+  },
+  {
+    slug: 'comprar-obra-nueva-directo-promotor-valencia',
+    title: 'Comprar obra nueva en Valencia directo al promotor',
+    description: 'Comprar una vivienda de obra nueva directamente al promotor-constructor en Valencia sale más barato y permite personalizar acabados. Te explicamos por qué.',
+    date: '2026-09-03',
+    readTime: '4 min',
+    category: 'Obra Nueva',
+    image: '/images/blog-obra-nueva-promotor.jpg',
+    content: `
+      <p>Cuando alguien busca una vivienda de obra nueva en Valencia, lo habitual es encontrarla a través de un portal inmobiliario o una inmobiliaria que revende unidades de una promoción. Pero existe otra vía, menos conocida y casi siempre más ventajosa: comprar <strong>directamente al promotor que también construye</strong>. En este artículo te explicamos qué diferencia a esta opción y por qué merece la pena considerarla antes de firmar cualquier reserva, con la experiencia de nuestras propias promociones a través de <a href="/servicios/promotora-valencia/"><strong>Constructora en Valencia como promotora inmobiliaria</strong></a>.</p>
+      
+      <h2>Qué significa comprar "directo al promotor"</h2>
+      <p>En la mayoría de promociones, el promotor (quien financia y desarrolla el proyecto) y el constructor (quien ejecuta la obra) son empresas distintas, y además suele haber una red de agencias inmobiliarias comercializando las viviendas. Cada intermediario añade su margen al precio final. Cuando la misma empresa promueve, construye y vende directamente, esa cadena se acorta —y con ella, el precio y los plazos de respuesta ante cualquier duda.</p>
+      
+      <h2>Ventajas de comprar directamente al promotor-constructor</h2>
+      <ul>
+        <li><strong>Sin comisiones de intermediarios:</strong> el precio no incluye el margen de una agencia inmobiliaria externa, lo que se traduce en un ahorro real sobre el precio de salida.</li>
+        <li><strong>Personalización de acabados:</strong> al ser la misma empresa quien construye, es posible ajustar distribución interior, calidades o instalaciones durante la obra —algo que rara vez permite un promotor que subcontrata la construcción a un tercero ya con el proyecto cerrado.</li>
+        <li><strong>Trato técnico directo:</strong> cualquier duda sobre calidades, plazos o incidencias se resuelve con quien efectivamente ejecuta la obra, sin depender de que un comercial traslade la consulta al constructor.</li>
+        <li><strong>Responsabilidad clara ante la garantía:</strong> sabes exactamente quién responde de la <a href="/servicios/obra-nueva-valencia/"><strong>garantía decenal</strong></a> obligatoria en obra nueva, sin figuras intermedias que diluyan la responsabilidad.</li>
+      </ul>
+      
+      <h2>Qué diferencia a Constructora en Valencia como promotora</h2>
+      <p>Además de construir para terceros, desarrollamos nuestras propias promociones en ubicaciones seleccionadas por su potencial de revalorización, con calificaciones energéticas tipo A. Es el caso del <a href="/proyectos/edificio-sostenible-patraix/"><strong>Edificio Residencial Ecológico de Patraix</strong></a>, una promoción de 20 viviendas con cubierta ajardinada y energía solar, o la <a href="/proyectos/edificio-residencial-extramurs/"><strong>promoción de 12 viviendas en Extramurs</strong></a>, con aparcamiento subterráneo y puntos de carga eléctrica. En ambos casos, el comprador trata directamente con el mismo equipo que diseña, construye y entrega la vivienda.</p>
+      
+      <h2>Qué revisar antes de firmar la reserva de una vivienda sobre plano</h2>
+      <ul>
+        <li><strong>Licencia de obras concedida:</strong> comprobar que el proyecto ya tiene licencia municipal, no solo que está "en trámite".</li>
+        <li><strong>Aval bancario de las cantidades entregadas a cuenta:</strong> la ley obliga a garantizar mediante seguro o aval cualquier pago realizado antes de la entrega de llaves.</li>
+        <li><strong>Memoria de calidades detallada:</strong> debe especificar marcas y modelos concretos, no descripciones genéricas como "materiales de primera calidad".</li>
+        <li><strong>Plazo de entrega contractual:</strong> con penalización clara en caso de retraso no justificado.</li>
+      </ul>
+      
+      <h2>Preguntas frecuentes sobre comprar obra nueva directo al promotor</h2>
+      <h3>¿Es más barato comprar sobre plano que una vivienda ya terminada?</h3>
+      <p>Habitualmente sí, porque el precio suele fijarse en fases anteriores a la entrega y no incluye el margen de reventa que aplicaría un particular o una agencia sobre una vivienda ya construida. A cambio, hay que asumir un plazo de espera hasta la entrega.</p>
+      
+      <h3>¿Qué garantías tengo si compro una vivienda todavía en construcción?</h3>
+      <p>Las cantidades entregadas a cuenta deben estar garantizadas por aval o seguro conforme a la Ley de Ordenación de la Edificación, y una vez entregada la vivienda aplica la garantía decenal, de 3 años en instalaciones y de 1 año en acabados.</p>
+      
+      <h3>¿Puedo personalizar los acabados de mi vivienda?</h3>
+      <p>Depende de la fase de la obra en el momento de la compra. Cuanto antes se reserve la vivienda dentro del calendario de construcción, mayor margen hay para ajustar distribución, calidades o instalaciones sin coste adicional relevante.</p>
+      
+      <p>Si quieres conocer nuestras promociones actuales en Valencia y área metropolitana, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">contacta sin compromiso</a>. Te contamos qué viviendas tenemos disponibles y en qué fase de construcción se encuentra cada promoción.</p>
+    `
+  },
+  {
+    slug: 'precio-nave-industrial-valencia',
+    title: 'Naves industriales en Valencia: precios y plazos 2026',
+    description: 'Construir una nave industrial en Valencia cuesta desde 350€/m². Tipos de estructura, qué incluye la obra y plazos reales de ejecución en 2026.',
+    date: '2026-09-10',
+    readTime: '5 min',
+    category: 'Obra Nueva',
+    image: '/images/blog-nave-industrial-valencia.jpg',
+    content: `
+      <p>Los polígonos industriales de Valencia y su área metropolitana —Fuente del Jarro, Ribaroja, Quart de Poblet, Sagunto— están en plena expansión por el crecimiento del sector logístico y la reindustrialización de la Comunitat Valenciana. Si tu empresa necesita una nave para almacenaje, producción o distribución, este artículo repasa los tipos de estructura disponibles, qué incluye realmente la obra y qué presupuesto manejar en 2026, con la experiencia de nuestros proyectos de <a href="/servicios/construccion-naves-industriales-valencia/"><strong>construcción de naves industriales en Valencia</strong></a>.</p>
+      
+      <h2>Tipos de estructura para una nave industrial</h2>
+      <h3>Estructura metálica (acero)</h3>
+      <p>Es la solución más habitual para naves logísticas y de almacenaje. Permite grandes luces sin pilares intermedios, plazos de montaje más cortos y facilidad para ampliar la instalación en el futuro. El cerramiento se ejecuta con panel sandwich, que aporta aislamiento térmico y acústico.</p>
+      
+      <h3>Estructura prefabricada de hormigón</h3>
+      <p>Ofrece mayor resistencia al fuego y a impactos, por lo que es la opción preferida en naves de producción industrial o donde la normativa de protección contra incendios es más exigente. El montaje es algo más lento que el de la estructura metálica, pero requiere menos mantenimiento a largo plazo.</p>
+      
+      <h2>Qué incluye la construcción de una nave industrial</h2>
+      <ul>
+        <li><strong>Cimentación y solera</strong>, dimensionada según las cargas previstas (estanterías, maquinaria pesada, tráfico de carretillas).</li>
+        <li><strong>Estructura y cerramientos</strong>, metálicos o de hormigón según el uso.</li>
+        <li><strong>Instalación eléctrica industrial</strong>, con cuadros de potencia dimensionados para la maquinaria prevista.</li>
+        <li><strong>Protección contra incendios</strong>: BIEs, extintores, detección y, según la actividad, rociadores automáticos.</li>
+        <li><strong>Oficinas integradas y aseos</strong> para el personal administrativo y de control de producción.</li>
+        <li><strong>Urbanización exterior</strong>: accesos, aparcamiento y muelles de carga para vehículos pesados.</li>
+      </ul>
+      
+      <h2>Factores que determinan el precio de una nave industrial</h2>
+      <ul>
+        <li><strong>Altura libre:</strong> una nave de almacenaje con estanterías en altura necesita más altura libre que una nave de producción, lo que incrementa el coste de estructura.</li>
+        <li><strong>Número de muelles de carga:</strong> cada muelle añade coste de obra civil y de instalaciones de nivelación.</li>
+        <li><strong>Tipo de suelo:</strong> un suelo técnico epoxi para producción es más caro que un hormigón pulido estándar para almacenaje.</li>
+        <li><strong>Estado de la parcela:</strong> comprar suelo en un polígono con urbanización ya terminada reduce costes frente a una parcela que requiere movimiento de tierras y acometidas desde cero.</li>
+      </ul>
+      
+      <h2>Precios orientativos de una nave industrial en Valencia (2026)</h2>
+      <p>Como <strong>referencia orientativa de obra ejecutada</strong>, sin incluir el coste del suelo:</p>
+      <ul>
+        <li><strong>Nave metálica básica para almacenaje (sin oficinas):</strong> desde 350 €/m²</li>
+        <li><strong>Nave con oficinas integradas y muelles de carga:</strong> desde 480 €/m²</li>
+        <li><strong>Nave industrial con instalaciones especiales de producción (suelo técnico, estructura ignífuga):</strong> desde 620 €/m²</li>
+        <li><strong>Urbanización exterior y accesos:</strong> se presupuesta aparte según el estado de partida de la parcela</li>
+      </ul>
+      <p>Para proyectos que además requieren movimientos de tierra a gran escala o urbanización del polígono, trabajamos de forma coordinada con nuestro equipo de <a href="/servicios/obra-civil-industrial-valencia/"><strong>obra civil</strong></a>.</p>
+      
+      <h2>Plazos de construcción de una nave industrial</h2>
+      <p>Una nave de tamaño medio (1.500-2.500 m²) con estructura metálica suele ejecutarse en <strong>4 a 6 meses</strong> desde el inicio de la cimentación hasta la entrega con instalaciones terminadas. En nuestro proyecto de la <a href="/proyectos/nave-logistica-ribarroja/"><strong>plataforma logística de Riba-roja de Túria</strong></a> (2.400 m², estructura prefabricada y 4 muelles de carga), la estructura prefabricada permitió acortar el plazo de montaje frente a una solución de hormigón in situ. En la <a href="/proyectos/nave-industrial-paterna/"><strong>planta de producción de Fuente del Jarro, Paterna</strong></a>, el uso previsto (sector automoción) exigió suelos técnicos epoxi y estructura ignifugada, lo que amplió ligeramente el plazo respecto a una nave de almacenaje estándar.</p>
+      
+      <h2>Preguntas frecuentes sobre construir una nave industrial en Valencia</h2>
+      <h3>¿Qué licencias necesito para construir una nave industrial?</h3>
+      <p>Se necesita licencia municipal de obras y, según la actividad que se vaya a desarrollar, licencia ambiental de actividad. En polígonos industriales gestionados por una junta de compensación puede haber además normativa específica de la propia urbanización que conviene verificar antes de comprar la parcela.</p>
+      
+      <h3>¿Cuánto tarda la construcción de una nave industrial?</h3>
+      <p>Entre 4 y 6 meses para una nave de tamaño medio con estructura metálica, pudiendo extenderse si se requieren instalaciones especiales de producción o una urbanización de la parcela previa al inicio de la obra.</p>
+      
+      <h3>¿Puedo ampliar la nave en el futuro si mi negocio crece?</h3>
+      <p>Con estructura metálica, sí: es el sistema que ofrece más facilidad para ampliaciones posteriores, siempre que la parcela disponga de superficie libre y la normativa urbanística del polígono lo permita.</p>
+      
+      <p>Si tu empresa necesita una nave industrial en Valencia o su área metropolitana, llámanos al <strong>960 73 12 06</strong> o <a href="/contacto/">solicita presupuesto sin compromiso</a>. Estudiamos tu proyecto y te damos una propuesta detallada en menos de 24 horas.</p>
+    `
+  }
 ]
+
 
 export const BLOG_CATEGORIES = [
   'Reformas',

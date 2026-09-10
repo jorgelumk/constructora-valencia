@@ -87,6 +87,7 @@ export default function Footer() {
         <div className="container-xl py-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-sm text-slate-500">
           <p>© {new Date().getFullYear()} {SITE.name}. Todos los derechos reservados.</p>
           <div className="flex gap-4">
+            <a href="/mapa-del-sitio/" className="hover:text-slate-300 transition-colors">Mapa del sitio</a>
             <a href="/politica-privacidad/" className="hover:text-slate-300 transition-colors">Privacidad</a>
             <a href="/politica-de-cookies/" className="hover:text-slate-300 transition-colors">Cookies</a>
             <a href="/aviso-legal/" className="hover:text-slate-300 transition-colors">Aviso legal</a>

@@ -7,7 +7,6 @@ import { PROJECTS } from '@/lib/projects-data'
 export const metadata: Metadata = {
   title: 'Mapa del Sitio',
   description: 'Encuentra todas las páginas de Constructora Valencia: servicios de construcción, proyectos realizados, blog y contacto.',
-  robots: { index: false, follow: true },
   alternates: { canonical: 'https://constructoravalencia.com/mapa-del-sitio/' },
 }
 
@@ -18,6 +17,7 @@ const sections = [
     color: 'from-orange-500 to-amber-500',
     links: [
       { label: 'Inicio', href: '/' },
+      { label: 'Quiénes Somos', href: '/quienes-somos/' },
       { label: 'Servicios', href: '/servicios/' },
       { label: 'Proyectos', href: '/proyectos/' },
       { label: 'Blog', href: '/blog/' },
@@ -29,6 +29,17 @@ const sections = [
     title: 'Servicios',
     color: 'from-blue-600 to-cyan-500',
     links: SERVICES.map((s) => ({ label: s.titleLong, href: `/servicios/${s.slug}/` })),
+  },
+  {
+    icon: '📍',
+    title: 'Zonas donde Trabajamos',
+    color: 'from-rose-500 to-pink-500',
+    links: [
+      { label: 'Paterna', href: '/constructora-paterna/' },
+      { label: 'Torrent', href: '/constructora-torrent/' },
+      { label: "L'Eliana", href: '/constructora-leliana/' },
+      { label: 'Rocafort', href: '/constructora-rocafort/' },
+    ],
   },
   {
     icon: '🏗️',
@@ -59,7 +70,7 @@ export default function MapaDelSitioPage() {
     <>
       {/* Hero */}
       <section className="bg-brand-dark pt-32 pb-16 relative overflow-hidden">
-        <div className="absolute inset-0 opacity-5 bg-[url('https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1800&q=80')] bg-cover bg-center" />
+        <div className="absolute inset-0 opacity-5 bg-[url('/images/stock/1486325212027-8081e485255e.jpg')] bg-cover bg-center" />
         <div className="container-xl relative z-10 text-center max-w-3xl mx-auto">
           <p className="eyebrow mb-4 text-brand-accent">Navegación</p>
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">Mapa del Sitio</h1>
