@@ -175,6 +175,18 @@ export default function ServicePage({ params }: Props) {
         </div>
       </section>
 
+      {/* SEO Content Block */}
+      {service.seoContent && (
+        <section className="section-pad bg-white border-t border-slate-100">
+          <div className="container-xl max-w-4xl mx-auto">
+            <div
+              className="prose prose-slate prose-lg max-w-none prose-headings:font-bold prose-headings:text-slate-900 prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-4 prose-p:text-slate-600 prose-li:text-slate-600 prose-strong:text-slate-800 prose-a:text-brand-accent prose-a:no-underline hover:prose-a:underline"
+              dangerouslySetInnerHTML={{ __html: service.seoContent }}
+            />
+          </div>
+        </section>
+      )}
+
       <WhyUs />
       <ProjectsPreview />
       <Testimonials />

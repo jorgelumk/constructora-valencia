@@ -32,6 +32,7 @@ export interface Service {
   image: string
   features: string[]
   faqs: { q: string; a: string }[]
+  seoContent?: string
 }
 
 export const SERVICES: Service[] = [
