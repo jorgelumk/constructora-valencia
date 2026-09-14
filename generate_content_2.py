@@ -114,7 +114,7 @@ services_updates = {
 }
 
 for slug, data in services_updates.items():
-    pattern = r"(slug:\s*'" + slug + r"'.*?faqs:\s*\[)(.*?)(\]\s*\n\s*\})"
+    pattern = r"(slug:\s*'" + slug + r"'.*?faqs:\s*\[)(.*?)(],\n\s*\})"
     match = re.search(pattern, constants_data, re.DOTALL)
     if match:
         existing_faqs = match.group(2)
